@@ -1,0 +1,13 @@
+<InputGroup w="25%">
+  <Input id="input"></Input>
+  <InputRightElement>
+    <IconButton
+      icon={<CloseIcon></CloseIcon>}
+      onClick={() => {
+        document.getElementById("input").value = "";
+        setElement("");
+        console.log(c.includes("i"));
+      }}
+    ></IconButton>
+  </InputRightElement>
+</InputGroup>;
