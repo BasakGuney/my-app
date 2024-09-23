@@ -1,0 +1,53 @@
+{
+    "vms": [
+      {
+        "name": "AD-DNS-001",
+        "uptime_weeks": 3.5,
+        "cpu_mhz": 289,
+        "ram_mb": 440,
+        "cpu_usage_percent": 3.6,
+        "ram_usage_percent": 7.0,
+        "cpu_ready_ms": [250, 500, 750], 
+        "cpu_ready_chart": {
+          "time": ["16:50", "17:10", "17:40"],
+          "values": [300, 500, 400]
+        },
+        "ram_utilization_gb": {
+          "time": ["16:50", "17:10", "17:40"],
+          "values": [0.4, 0.5, 0.44]
+        },
+        "network_usage": {
+          "rx_kbs": [1.0, 1.0, 1.0],
+          "tx_kbs": [0.0, 0.0, 0.0],
+          "current": 1.0
+        },
+        "disk_latency_ms": [1.0, 2.0, 4.0],
+        "storage_latency_ms": [2.0, 3.0, 5.0]
+      },
+      {
+        "name": "Veeam-ONE-v10",
+        "uptime_weeks": 4.8,
+        "cpu_mhz": 472,
+        "ram_mb": 1024,
+        "cpu_usage_percent": 3.0,
+        "ram_usage_percent": 10.0,
+        "cpu_ready_ms": [250, 300, 350],
+        "cpu_ready_chart": {
+          "time": ["16:50", "17:10", "17:40"],
+          "values": [200, 300, 400]
+        },
+        "ram_utilization_gb": {
+          "time": ["16:50", "17:10", "17:40"],
+          "values": [0.9, 1.0, 0.96]
+        },
+        "network_usage": {
+          "rx_kbs": [0.0, 0.0, 0.0],
+          "tx_kbs": [1.0, 1.0, 1.0],
+          "current": 1.0
+        },
+        "disk_latency_ms": [1.0, 2.0, 3.0],
+        "storage_latency_ms": [3.0, 4.0, 6.0]
+      }
+    ]
+  }
+  
