@@ -1,52 +1,102 @@
 {
-    "vms": [
+    "vm_performance": [
       {
-        "name": "AD-DNS-001",
-        "uptime_weeks": 3.5,
-        "cpu_mhz": 289,
-        "ram_mb": 440,
-        "cpu_usage_percent": 3.6,
-        "ram_usage_percent": 7.0,
-        "cpu_ready_ms": [250, 500, 750], 
-        "cpu_ready_chart": {
-          "time": ["16:50", "17:10", "17:40"],
-          "values": [300, 500, 400]
-        },
-        "ram_utilization_gb": {
-          "time": ["16:50", "17:10", "17:40"],
-          "values": [0.4, 0.5, 0.44]
-        },
-        "network_usage": {
-          "rx_kbs": [1.0, 1.0, 1.0],
-          "tx_kbs": [0.0, 0.0, 0.0],
-          "current": 1.0
-        },
-        "disk_latency_ms": [1.0, 2.0, 4.0],
-        "storage_latency_ms": [2.0, 3.0, 5.0]
+        "vm_id": "vm-123",
+        "vm_name": "AD-DNS-001",
+        "uptime": "3.5 weeks",
+        "metrics": [
+          {
+            "timestamp": "16:50",
+            "cpu_usage_percentage": 3.6,
+            "cpu_usage_MHz": 289,
+            "ram_usage_percentage": 7.0,
+            "ram_usage_MB": 440,
+            "network_usage": {
+              "rx": "1.000 KB/s",
+              "tx": "1.000 KB/s"
+            },
+            "disk_latency_ms": 2.5,
+            "storage_adapter_latency_ms": 3.8,
+            "cpu_ready_ms": 500
+          },
+          {
+            "timestamp": "17:00",
+            "cpu_usage_percentage": 3.7,
+            "cpu_usage_MHz": 290,
+            "ram_usage_percentage": 7.2,
+            "ram_usage_MB": 445,
+            "network_usage": {
+              "rx": "1.000 KB/s",
+              "tx": "0 KB/s"
+            },
+            "disk_latency_ms": 1.9,
+            "storage_adapter_latency_ms": 2.0,
+            "cpu_ready_ms": 480
+          },
+          {
+            "timestamp": "17:10",
+            "cpu_usage_percentage": 3.6,
+            "cpu_usage_MHz": 288,
+            "ram_usage_percentage": 7.1,
+            "ram_usage_MB": 442,
+            "network_usage": {
+              "rx": "4.000 KB/s",
+              "tx": "0 KB/s"
+            },
+            "disk_latency_ms": 3.1,
+            "storage_adapter_latency_ms": 4.2,
+            "cpu_ready_ms": 510
+          }
+        ]
       },
       {
-        "name": "Veeam-ONE-v10",
-        "uptime_weeks": 4.8,
-        "cpu_mhz": 472,
-        "ram_mb": 1024,
-        "cpu_usage_percent": 3.0,
-        "ram_usage_percent": 10.0,
-        "cpu_ready_ms": [250, 300, 350],
-        "cpu_ready_chart": {
-          "time": ["16:50", "17:10", "17:40"],
-          "values": [200, 300, 400]
-        },
-        "ram_utilization_gb": {
-          "time": ["16:50", "17:10", "17:40"],
-          "values": [0.9, 1.0, 0.96]
-        },
-        "network_usage": {
-          "rx_kbs": [0.0, 0.0, 0.0],
-          "tx_kbs": [1.0, 1.0, 1.0],
-          "current": 1.0
-        },
-        "disk_latency_ms": [1.0, 2.0, 3.0],
-        "storage_latency_ms": [3.0, 4.0, 6.0]
+        "vm_id": "vm-456",
+        "vm_name": "Veeam-ONE-v10",
+        "uptime": "4.8 weeks",
+        "metrics": [
+          {
+            "timestamp": "16:50",
+            "cpu_usage_percentage": 3.0,
+            "cpu_usage_MHz": 472,
+            "ram_usage_percentage": 10.0,
+            "ram_usage_GB": 1.0,
+            "network_usage": {
+              "rx": "1.000 KB/s",
+              "tx": "1.000 KB/s"
+            },
+            "disk_latency_ms": 1.2,
+            "storage_adapter_latency_ms": 1.8,
+            "cpu_ready_ms": 250
+          },
+          {
+            "timestamp": "17:00",
+            "cpu_usage_percentage": 2.9,
+            "cpu_usage_MHz": 470,
+            "ram_usage_percentage": 9.8,
+            "ram_usage_GB": 0.99,
+            "network_usage": {
+              "rx": "1.000 KB/s",
+              "tx": "0 KB/s"
+            },
+            "disk_latency_ms": 0.9,
+            "storage_adapter_latency_ms": 1.5,
+            "cpu_ready_ms": 240
+          },
+          {
+            "timestamp": "17:10",
+            "cpu_usage_percentage": 3.1,
+            "cpu_usage_MHz": 475,
+            "ram_usage_percentage": 10.2,
+            "ram_usage_GB": 1.02,
+            "network_usage": {
+              "rx": "4.000 KB/s",
+              "tx": "0 KB/s"
+            },
+            "disk_latency_ms": 1.7,
+            "storage_adapter_latency_ms": 2.2,
+            "cpu_ready_ms": 260
+          }
+        ]
       }
     ]
   }
