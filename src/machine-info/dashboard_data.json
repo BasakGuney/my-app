@@ -1,0 +1,4420 @@
+[
+  {
+    "vm_id": "vm-123",
+    "vm_name": "AD-DNS-001",
+    "uptime": "3.5 weeks",
+    "metrics": [
+      {
+        "timestamp": "16:50",
+        "cpu_usage_percentage": 3.6,
+        "cpu_usage_MHz": 289,
+        "ram_usage_percentage": 7.0,
+        "ram_usage_MB": 440,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.5,
+        "storage_adapter_latency_ms": 3.8,
+        "cpu_ready_ms": 500
+      },
+      {
+        "timestamp": "16:51",
+        "cpu_usage_percentage": 3.8,
+        "cpu_usage_MHz": 295,
+        "ram_usage_percentage": 7.1,
+        "ram_usage_MB": 442,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.2,
+        "storage_adapter_latency_ms": 3.5,
+        "cpu_ready_ms": 490
+      },
+      {
+        "timestamp": "16:52",
+        "cpu_usage_percentage": 4.0,
+        "cpu_usage_MHz": 300,
+        "ram_usage_percentage": 7.2,
+        "ram_usage_MB": 445,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 1.8,
+        "storage_adapter_latency_ms": 3.0,
+        "cpu_ready_ms": 480
+      },
+      {
+        "timestamp": "16:53",
+        "cpu_usage_percentage": 3.9,
+        "cpu_usage_MHz": 294,
+        "ram_usage_percentage": 7.0,
+        "ram_usage_MB": 441,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.0,
+        "storage_adapter_latency_ms": 3.2,
+        "cpu_ready_ms": 470
+      },
+      {
+        "timestamp": "16:54",
+        "cpu_usage_percentage": 4.1,
+        "cpu_usage_MHz": 310,
+        "ram_usage_percentage": 7.3,
+        "ram_usage_MB": 447,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.1,
+        "storage_adapter_latency_ms": 3.3,
+        "cpu_ready_ms": 460
+      },
+      {
+        "timestamp": "16:55",
+        "cpu_usage_percentage": 4.3,
+        "cpu_usage_MHz": 305,
+        "ram_usage_percentage": 7.5,
+        "ram_usage_MB": 450,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 1.5,
+        "storage_adapter_latency_ms": 2.9,
+        "cpu_ready_ms": 450
+      },
+      {
+        "timestamp": "16:56",
+        "cpu_usage_percentage": 4.2,
+        "cpu_usage_MHz": 310,
+        "ram_usage_percentage": 7.4,
+        "ram_usage_MB": 448,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.3,
+        "storage_adapter_latency_ms": 3.1,
+        "cpu_ready_ms": 440
+      },
+      {
+        "timestamp": "16:57",
+        "cpu_usage_percentage": 4.4,
+        "cpu_usage_MHz": 312,
+        "ram_usage_percentage": 7.6,
+        "ram_usage_MB": 451,
+        "network_usage": {
+          "rx": 1,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.4,
+        "storage_adapter_latency_ms": 3.2,
+        "cpu_ready_ms": 430
+      },
+      {
+        "timestamp": "16:58",
+        "cpu_usage_percentage": 4.5,
+        "cpu_usage_MHz": 315,
+        "ram_usage_percentage": 7.7,
+        "ram_usage_MB": 452,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 1.7,
+        "storage_adapter_latency_ms": 2.7,
+        "cpu_ready_ms": 420
+      },
+      {
+        "timestamp": "16:59",
+        "cpu_usage_percentage": 4.6,
+        "cpu_usage_MHz": 317,
+        "ram_usage_percentage": 7.8,
+        "ram_usage_MB": 454,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 1.8,
+        "storage_adapter_latency_ms": 2.5,
+        "cpu_ready_ms": 410
+      },
+      {
+        "timestamp": "17:00",
+        "cpu_usage_percentage": 3.7,
+        "cpu_usage_MHz": 290,
+        "ram_usage_percentage": 7.2,
+        "ram_usage_MB": 445,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.9,
+        "storage_adapter_latency_ms": 2.0,
+        "cpu_ready_ms": 480
+      },
+      {
+        "timestamp": "17:01",
+        "cpu_usage_percentage": 3.8,
+        "cpu_usage_MHz": 292,
+        "ram_usage_percentage": 7.4,
+        "ram_usage_MB": 447,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.6,
+        "storage_adapter_latency_ms": 2.1,
+        "cpu_ready_ms": 470
+      },
+      {
+        "timestamp": "17:02",
+        "cpu_usage_percentage": 3.9,
+        "cpu_usage_MHz": 295,
+        "ram_usage_percentage": 7.3,
+        "ram_usage_MB": 446,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.5,
+        "storage_adapter_latency_ms": 1.9,
+        "cpu_ready_ms": 460
+      },
+      {
+        "timestamp": "17:03",
+        "cpu_usage_percentage": 4.1,
+        "cpu_usage_MHz": 298,
+        "ram_usage_percentage": 7.5,
+        "ram_usage_MB": 448,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.7,
+        "storage_adapter_latency_ms": 2.0,
+        "cpu_ready_ms": 450
+      },
+      {
+        "timestamp": "17:04",
+        "cpu_usage_percentage": 4.0,
+        "cpu_usage_MHz": 299,
+        "ram_usage_percentage": 7.6,
+        "ram_usage_MB": 449,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.8,
+        "storage_adapter_latency_ms": 2.2,
+        "cpu_ready_ms": 440
+      },
+      {
+        "timestamp": "17:05",
+        "cpu_usage_percentage": 4.2,
+        "cpu_usage_MHz": 300,
+        "ram_usage_percentage": 7.7,
+        "ram_usage_MB": 450,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.6,
+        "storage_adapter_latency_ms": 2.3,
+        "cpu_ready_ms": 430
+      },
+      {
+        "timestamp": "17:06",
+        "cpu_usage_percentage": 4.3,
+        "cpu_usage_MHz": 302,
+        "ram_usage_percentage": 7.8,
+        "ram_usage_MB": 452,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.4,
+        "storage_adapter_latency_ms": 2.5,
+        "cpu_ready_ms": 420
+      },
+      {
+        "timestamp": "17:07",
+        "cpu_usage_percentage": 4.5,
+        "cpu_usage_MHz": 304,
+        "ram_usage_percentage": 7.9,
+        "ram_usage_MB": 453,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.5,
+        "storage_adapter_latency_ms": 2.6,
+        "cpu_ready_ms": 410
+      },
+      {
+        "timestamp": "17:08",
+        "cpu_usage_percentage": 4.6,
+        "cpu_usage_MHz": 306,
+        "ram_usage_percentage": 8.0,
+        "ram_usage_MB": 454,
+        "network_usage": {
+          "rx": 1,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.8,
+        "storage_adapter_latency_ms": 2.8,
+        "cpu_ready_ms": 400
+      },
+      {
+        "timestamp": "17:09",
+        "cpu_usage_percentage": 4.8,
+        "cpu_usage_MHz": 308,
+        "ram_usage_percentage": 8.1,
+        "ram_usage_MB": 455,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.6,
+        "storage_adapter_latency_ms": 2.4,
+        "cpu_ready_ms": 390
+      },
+      {
+        "timestamp": "17:10",
+        "cpu_usage_percentage": 5.0,
+        "cpu_usage_MHz": 310,
+        "ram_usage_percentage": 8.2,
+        "ram_usage_MB": 456,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.7,
+        "storage_adapter_latency_ms": 2.5,
+        "cpu_ready_ms": 380
+      },
+      {
+        "timestamp": "17:11",
+        "cpu_usage_percentage": 5.1,
+        "cpu_usage_MHz": 315,
+        "ram_usage_percentage": 8.4,
+        "ram_usage_MB": 457,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.8,
+        "storage_adapter_latency_ms": 2.6,
+        "cpu_ready_ms": 370
+      },
+      {
+        "timestamp": "17:12",
+        "cpu_usage_percentage": 5.2,
+        "cpu_usage_MHz": 320,
+        "ram_usage_percentage": 8.5,
+        "ram_usage_MB": 458,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.9,
+        "storage_adapter_latency_ms": 2.7,
+        "cpu_ready_ms": 360
+      },
+      {
+        "timestamp": "17:13",
+        "cpu_usage_percentage": 5.3,
+        "cpu_usage_MHz": 325,
+        "ram_usage_percentage": 8.6,
+        "ram_usage_MB": 459,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 2.0,
+        "storage_adapter_latency_ms": 2.8,
+        "cpu_ready_ms": 350
+      },
+      {
+        "timestamp": "17:14",
+        "cpu_usage_percentage": 5.4,
+        "cpu_usage_MHz": 330,
+        "ram_usage_percentage": 8.8,
+        "ram_usage_MB": 460,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 2.1,
+        "storage_adapter_latency_ms": 2.9,
+        "cpu_ready_ms": 340
+      },
+      {
+        "timestamp": "17:15",
+        "cpu_usage_percentage": 5.5,
+        "cpu_usage_MHz": 335,
+        "ram_usage_percentage": 8.9,
+        "ram_usage_MB": 461,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 2.2,
+        "storage_adapter_latency_ms": 3.0,
+        "cpu_ready_ms": 330
+      },
+      {
+        "timestamp": "17:16",
+        "cpu_usage_percentage": 5.6,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 9.0,
+        "ram_usage_MB": 462,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 2.3,
+        "storage_adapter_latency_ms": 3.1,
+        "cpu_ready_ms": 320
+      },
+      {
+        "timestamp": "17:17",
+        "cpu_usage_percentage": 5.7,
+        "cpu_usage_MHz": 345,
+        "ram_usage_percentage": 9.1,
+        "ram_usage_MB": 463,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 2.4,
+        "storage_adapter_latency_ms": 3.2,
+        "cpu_ready_ms": 310
+      },
+      {
+        "timestamp": "17:18",
+        "cpu_usage_percentage": 5.8,
+        "cpu_usage_MHz": 350,
+        "ram_usage_percentage": 9.2,
+        "ram_usage_MB": 464,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 2.5,
+        "storage_adapter_latency_ms": 3.3,
+        "cpu_ready_ms": 300
+      },
+      {
+        "timestamp": "17:19",
+        "cpu_usage_percentage": 5.9,
+        "cpu_usage_MHz": 355,
+        "ram_usage_percentage": 9.3,
+        "ram_usage_MB": 465,
+        "network_usage": {
+          "rx": 2,
+          "tx": 0
+        },
+        "disk_latency_ms": 2.6,
+        "storage_adapter_latency_ms": 3.4,
+        "cpu_ready_ms": 290
+      },
+      {
+        "timestamp": "17:20",
+        "cpu_usage_percentage": 5.0,
+        "cpu_usage_MHz": 306,
+        "ram_usage_percentage": 8.3,
+        "ram_usage_MB": 455,
+        "network_usage": {
+          "rx": 6,
+          "tx": 0
+        },
+        "disk_latency_ms": 1.5,
+        "storage_adapter_latency_ms": 2.5,
+        "cpu_ready_ms": 410
+      }
+    ]
+  },
+  {
+    "vm_id": "vm-124",
+    "vm_name": "AD-File-001",
+    "uptime": "2 weeks",
+    "metrics": [
+      {
+        "timestamp": "16:50",
+        "cpu_usage_percentage": 5.1,
+        "cpu_usage_MHz": 320,
+        "ram_usage_percentage": 10.0,
+        "ram_usage_MB": 640,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.0,
+        "storage_adapter_latency_ms": 4.0,
+        "cpu_ready_ms": 600
+      },
+      {
+        "timestamp": "16:51",
+        "cpu_usage_percentage": 5.3,
+        "cpu_usage_MHz": 325,
+        "ram_usage_percentage": 10.2,
+        "ram_usage_MB": 642,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.8,
+        "storage_adapter_latency_ms": 3.9,
+        "cpu_ready_ms": 590
+      },
+      {
+        "timestamp": "16:52",
+        "cpu_usage_percentage": 5.2,
+        "cpu_usage_MHz": 323,
+        "ram_usage_percentage": 10.1,
+        "ram_usage_MB": 641,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.1,
+        "storage_adapter_latency_ms": 4.1,
+        "cpu_ready_ms": 580
+      },
+      {
+        "timestamp": "16:53",
+        "cpu_usage_percentage": 5.4,
+        "cpu_usage_MHz": 330,
+        "ram_usage_percentage": 10.3,
+        "ram_usage_MB": 644,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.2,
+        "storage_adapter_latency_ms": 4.2,
+        "cpu_ready_ms": 570
+      },
+      {
+        "timestamp": "16:54",
+        "cpu_usage_percentage": 5.5,
+        "cpu_usage_MHz": 335,
+        "ram_usage_percentage": 10.5,
+        "ram_usage_MB": 645,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.3,
+        "storage_adapter_latency_ms": 4.3,
+        "cpu_ready_ms": 560
+      },
+      {
+        "timestamp": "16:55",
+        "cpu_usage_percentage": 5.6,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 10.6,
+        "ram_usage_MB": 646,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.4,
+        "storage_adapter_latency_ms": 4.4,
+        "cpu_ready_ms": 550
+      },
+      {
+        "timestamp": "16:56",
+        "cpu_usage_percentage": 5.7,
+        "cpu_usage_MHz": 345,
+        "ram_usage_percentage": 10.7,
+        "ram_usage_MB": 647,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.5,
+        "storage_adapter_latency_ms": 4.5,
+        "cpu_ready_ms": 540
+      },
+      {
+        "timestamp": "16:57",
+        "cpu_usage_percentage": 5.8,
+        "cpu_usage_MHz": 350,
+        "ram_usage_percentage": 10.8,
+        "ram_usage_MB": 648,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.1,
+        "storage_adapter_latency_ms": 4.0,
+        "cpu_ready_ms": 530
+      },
+      {
+        "timestamp": "16:58",
+        "cpu_usage_percentage": 5.9,
+        "cpu_usage_MHz": 355,
+        "ram_usage_percentage": 11.0,
+        "ram_usage_MB": 650,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.2,
+        "storage_adapter_latency_ms": 4.1,
+        "cpu_ready_ms": 520
+      },
+      {
+        "timestamp": "16:59",
+        "cpu_usage_percentage": 6.0,
+        "cpu_usage_MHz": 360,
+        "ram_usage_percentage": 11.1,
+        "ram_usage_MB": 652,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.3,
+        "storage_adapter_latency_ms": 4.2,
+        "cpu_ready_ms": 510
+      },
+      {
+        "timestamp": "17:00",
+        "cpu_usage_percentage": 5.2,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 10.6,
+        "ram_usage_MB": 646,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.0,
+        "storage_adapter_latency_ms": 4.0,
+        "cpu_ready_ms": 540
+      },
+      {
+        "timestamp": "17:01",
+        "cpu_usage_percentage": 5.1,
+        "cpu_usage_MHz": 335,
+        "ram_usage_percentage": 10.5,
+        "ram_usage_MB": 645,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.8,
+        "storage_adapter_latency_ms": 3.8,
+        "cpu_ready_ms": 550
+      },
+      {
+        "timestamp": "17:02",
+        "cpu_usage_percentage": 5.3,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 10.7,
+        "ram_usage_MB": 647,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.7,
+        "storage_adapter_latency_ms": 3.7,
+        "cpu_ready_ms": 560
+      },
+      {
+        "timestamp": "17:03",
+        "cpu_usage_percentage": 5.2,
+        "cpu_usage_MHz": 335,
+        "ram_usage_percentage": 10.6,
+        "ram_usage_MB": 646,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.6,
+        "storage_adapter_latency_ms": 3.6,
+        "cpu_ready_ms": 570
+      },
+      {
+        "timestamp": "17:04",
+        "cpu_usage_percentage": 5.4,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 10.8,
+        "ram_usage_MB": 648,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.5,
+        "storage_adapter_latency_ms": 3.5,
+        "cpu_ready_ms": 580
+      },
+      {
+        "timestamp": "17:05",
+        "cpu_usage_percentage": 5.6,
+        "cpu_usage_MHz": 345,
+        "ram_usage_percentage": 11.0,
+        "ram_usage_MB": 650,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.4,
+        "storage_adapter_latency_ms": 3.4,
+        "cpu_ready_ms": 590
+      },
+      {
+        "timestamp": "17:06",
+        "cpu_usage_percentage": 5.7,
+        "cpu_usage_MHz": 350,
+        "ram_usage_percentage": 11.1,
+        "ram_usage_MB": 652,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.3,
+        "storage_adapter_latency_ms": 3.3,
+        "cpu_ready_ms": 600
+      },
+      {
+        "timestamp": "17:07",
+        "cpu_usage_percentage": 5.8,
+        "cpu_usage_MHz": 355,
+        "ram_usage_percentage": 11.3,
+        "ram_usage_MB": 653,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.2,
+        "storage_adapter_latency_ms": 3.2,
+        "cpu_ready_ms": 610
+      },
+      {
+        "timestamp": "17:08",
+        "cpu_usage_percentage": 5.9,
+        "cpu_usage_MHz": 360,
+        "ram_usage_percentage": 11.5,
+        "ram_usage_MB": 655,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.1,
+        "storage_adapter_latency_ms": 3.1,
+        "cpu_ready_ms": 620
+      },
+      {
+        "timestamp": "17:09",
+        "cpu_usage_percentage": 6.0,
+        "cpu_usage_MHz": 365,
+        "ram_usage_percentage": 11.6,
+        "ram_usage_MB": 657,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.0,
+        "storage_adapter_latency_ms": 3.0,
+        "cpu_ready_ms": 630
+      },
+      {
+        "timestamp": "17:10",
+        "cpu_usage_percentage": 5.3,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 11.0,
+        "ram_usage_MB": 650,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 3.0,
+        "storage_adapter_latency_ms": 4.0,
+        "cpu_ready_ms": 540
+      },
+      {
+        "timestamp": "17:11",
+        "cpu_usage_percentage": 5.4,
+        "cpu_usage_MHz": 345,
+        "ram_usage_percentage": 11.2,
+        "ram_usage_MB": 652,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.9,
+        "storage_adapter_latency_ms": 3.9,
+        "cpu_ready_ms": 550
+      },
+      {
+        "timestamp": "17:12",
+        "cpu_usage_percentage": 5.5,
+        "cpu_usage_MHz": 350,
+        "ram_usage_percentage": 11.4,
+        "ram_usage_MB": 654,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.8,
+        "storage_adapter_latency_ms": 3.8,
+        "cpu_ready_ms": 560
+      },
+      {
+        "timestamp": "17:13",
+        "cpu_usage_percentage": 5.6,
+        "cpu_usage_MHz": 355,
+        "ram_usage_percentage": 11.5,
+        "ram_usage_MB": 655,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.7,
+        "storage_adapter_latency_ms": 3.7,
+        "cpu_ready_ms": 570
+      },
+      {
+        "timestamp": "17:14",
+        "cpu_usage_percentage": 5.7,
+        "cpu_usage_MHz": 360,
+        "ram_usage_percentage": 11.7,
+        "ram_usage_MB": 657,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.6,
+        "storage_adapter_latency_ms": 3.6,
+        "cpu_ready_ms": 580
+      },
+      {
+        "timestamp": "17:15",
+        "cpu_usage_percentage": 5.8,
+        "cpu_usage_MHz": 365,
+        "ram_usage_percentage": 11.8,
+        "ram_usage_MB": 658,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.5,
+        "storage_adapter_latency_ms": 3.5,
+        "cpu_ready_ms": 590
+      },
+      {
+        "timestamp": "17:16",
+        "cpu_usage_percentage": 5.9,
+        "cpu_usage_MHz": 370,
+        "ram_usage_percentage": 11.9,
+        "ram_usage_MB": 659,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.4,
+        "storage_adapter_latency_ms": 3.4,
+        "cpu_ready_ms": 580
+      },
+      {
+        "timestamp": "17:17",
+        "cpu_usage_percentage": 6.0,
+        "cpu_usage_MHz": 375,
+        "ram_usage_percentage": 12.0,
+        "ram_usage_MB": 660,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.3,
+        "storage_adapter_latency_ms": 3.3,
+        "cpu_ready_ms": 570
+      },
+      {
+        "timestamp": "17:18",
+        "cpu_usage_percentage": 5.5,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 11.3,
+        "ram_usage_MB": 653,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.2,
+        "storage_adapter_latency_ms": 3.2,
+        "cpu_ready_ms": 580
+      },
+      {
+        "timestamp": "17:19",
+        "cpu_usage_percentage": 5.3,
+        "cpu_usage_MHz": 335,
+        "ram_usage_percentage": 11.0,
+        "ram_usage_MB": 650,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.1,
+        "storage_adapter_latency_ms": 3.1,
+        "cpu_ready_ms": 570
+      },
+      {
+        "timestamp": "17:20",
+        "cpu_usage_percentage": 5.2,
+        "cpu_usage_MHz": 330,
+        "ram_usage_percentage": 10.8,
+        "ram_usage_MB": 648,
+        "network_usage": {
+          "rx": 2,
+          "tx": 1
+        },
+        "disk_latency_ms": 2.0,
+        "storage_adapter_latency_ms": 3.0,
+        "cpu_ready_ms": 550
+      }
+    ]
+  },
+  {
+    "vm_id": "vm-789",
+    "vm_name": "AD-Backup-001",
+    "uptime": "3.4 weeks",
+    "metrics": [
+      {
+        "timestamp": "16:50",
+        "cpu_usage_percentage": 5.1,
+        "cpu_usage_MHz": 340,
+        "ram_usage_percentage": 11.3,
+        "ram_usage_MB": 700,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 4.8,
+        "storage_adapter_latency_ms": 5.1,
+        "cpu_ready_ms": 600
+      },
+      {
+        "timestamp": "16:51",
+        "cpu_usage_percentage": 5.3,
+        "cpu_usage_MHz": 345,
+        "ram_usage_percentage": 11.5,
+        "ram_usage_MB": 710,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 4.5,
+        "storage_adapter_latency_ms": 5.0,
+        "cpu_ready_ms": 590
+      },
+      {
+        "timestamp": "16:52",
+        "cpu_usage_percentage": 5.4,
+        "cpu_usage_MHz": 350,
+        "ram_usage_percentage": 11.6,
+        "ram_usage_MB": 715,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 4.4,
+        "storage_adapter_latency_ms": 4.9,
+        "cpu_ready_ms": 580
+      },
+      {
+        "timestamp": "16:53",
+        "cpu_usage_percentage": 5.5,
+        "cpu_usage_MHz": 355,
+        "ram_usage_percentage": 11.7,
+        "ram_usage_MB": 720,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 4.3,
+        "storage_adapter_latency_ms": 4.8,
+        "cpu_ready_ms": 570
+      },
+      {
+        "timestamp": "16:54",
+        "cpu_usage_percentage": 5.6,
+        "cpu_usage_MHz": 360,
+        "ram_usage_percentage": 11.8,
+        "ram_usage_MB": 725,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 4.2,
+        "storage_adapter_latency_ms": 4.7,
+        "cpu_ready_ms": 560
+      },
+      {
+        "timestamp": "16:55",
+        "cpu_usage_percentage": 5.7,
+        "cpu_usage_MHz": 365,
+        "ram_usage_percentage": 12.0,
+        "ram_usage_MB": 730,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 4.1,
+        "storage_adapter_latency_ms": 4.6,
+        "cpu_ready_ms": 550
+      },
+      {
+        "timestamp": "16:56",
+        "cpu_usage_percentage": 5.8,
+        "cpu_usage_MHz": 370,
+        "ram_usage_percentage": 12.1,
+        "ram_usage_MB": 735,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 4.0,
+        "storage_adapter_latency_ms": 4.5,
+        "cpu_ready_ms": 540
+      },
+      {
+        "timestamp": "16:57",
+        "cpu_usage_percentage": 5.9,
+        "cpu_usage_MHz": 375,
+        "ram_usage_percentage": 12.3,
+        "ram_usage_MB": 740,
+        "network_usage": {
+          "rx": 4,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.9,
+        "storage_adapter_latency_ms": 4.4,
+        "cpu_ready_ms": 530
+      },
+      {
+        "timestamp": "16:58",
+        "cpu_usage_percentage": 6.0,
+        "cpu_usage_MHz": 380,
+        "ram_usage_percentage": 12.4,
+        "ram_usage_MB": 745,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.8,
+        "storage_adapter_latency_ms": 4.3,
+        "cpu_ready_ms": 520
+      },
+      {
+        "timestamp": "16:59",
+        "cpu_usage_percentage": 6.1,
+        "cpu_usage_MHz": 385,
+        "ram_usage_percentage": 12.5,
+        "ram_usage_MB": 750,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.7,
+        "storage_adapter_latency_ms": 4.2,
+        "cpu_ready_ms": 510
+      },
+      {
+        "timestamp": "17:00",
+        "cpu_usage_percentage": 6.2,
+        "cpu_usage_MHz": 390,
+        "ram_usage_percentage": 12.6,
+        "ram_usage_MB": 755,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.6,
+        "storage_adapter_latency_ms": 4.1,
+        "cpu_ready_ms": 500
+      },
+      {
+        "timestamp": "17:01",
+        "cpu_usage_percentage": 6.3,
+        "cpu_usage_MHz": 395,
+        "ram_usage_percentage": 12.8,
+        "ram_usage_MB": 760,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.5,
+        "storage_adapter_latency_ms": 4.0,
+        "cpu_ready_ms": 490
+      },
+      {
+        "timestamp": "17:02",
+        "cpu_usage_percentage": 6.4,
+        "cpu_usage_MHz": 400,
+        "ram_usage_percentage": 12.9,
+        "ram_usage_MB": 765,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.4,
+        "storage_adapter_latency_ms": 3.9,
+        "cpu_ready_ms": 480
+      },
+      {
+        "timestamp": "17:03",
+        "cpu_usage_percentage": 6.5,
+        "cpu_usage_MHz": 405,
+        "ram_usage_percentage": 13.0,
+        "ram_usage_MB": 770,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.3,
+        "storage_adapter_latency_ms": 3.8,
+        "cpu_ready_ms": 470
+      },
+      {
+        "timestamp": "17:04",
+        "cpu_usage_percentage": 6.6,
+        "cpu_usage_MHz": 410,
+        "ram_usage_percentage": 13.1,
+        "ram_usage_MB": 775,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.2,
+        "storage_adapter_latency_ms": 3.7,
+        "cpu_ready_ms": 460
+      },
+      {
+        "timestamp": "17:05",
+        "cpu_usage_percentage": 6.7,
+        "cpu_usage_MHz": 415,
+        "ram_usage_percentage": 13.3,
+        "ram_usage_MB": 780,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.1,
+        "storage_adapter_latency_ms": 3.6,
+        "cpu_ready_ms": 450
+      },
+      {
+        "timestamp": "17:06",
+        "cpu_usage_percentage": 6.8,
+        "cpu_usage_MHz": 420,
+        "ram_usage_percentage": 13.4,
+        "ram_usage_MB": 785,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 3.0,
+        "storage_adapter_latency_ms": 3.5,
+        "cpu_ready_ms": 440
+      },
+      {
+        "timestamp": "17:07",
+        "cpu_usage_percentage": 6.9,
+        "cpu_usage_MHz": 425,
+        "ram_usage_percentage": 13.5,
+        "ram_usage_MB": 790,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.9,
+        "storage_adapter_latency_ms": 3.4,
+        "cpu_ready_ms": 430
+      },
+      {
+        "timestamp": "17:08",
+        "cpu_usage_percentage": 7.0,
+        "cpu_usage_MHz": 430,
+        "ram_usage_percentage": 13.6,
+        "ram_usage_MB": 795,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.8,
+        "storage_adapter_latency_ms": 3.3,
+        "cpu_ready_ms": 420
+      },
+      {
+        "timestamp": "17:09",
+        "cpu_usage_percentage": 7.1,
+        "cpu_usage_MHz": 435,
+        "ram_usage_percentage": 13.7,
+        "ram_usage_MB": 800,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.7,
+        "storage_adapter_latency_ms": 3.2,
+        "cpu_ready_ms": 410
+      },
+      {
+        "timestamp": "17:10",
+        "cpu_usage_percentage": 7.2,
+        "cpu_usage_MHz": 440,
+        "ram_usage_percentage": 13.8,
+        "ram_usage_MB": 805,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.6,
+        "storage_adapter_latency_ms": 3.1,
+        "cpu_ready_ms": 400
+      },
+      {
+        "timestamp": "17:11",
+        "cpu_usage_percentage": 7.3,
+        "cpu_usage_MHz": 445,
+        "ram_usage_percentage": 14.0,
+        "ram_usage_MB": 810,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.5,
+        "storage_adapter_latency_ms": 3.0,
+        "cpu_ready_ms": 390
+      },
+      {
+        "timestamp": "17:12",
+        "cpu_usage_percentage": 7.4,
+        "cpu_usage_MHz": 450,
+        "ram_usage_percentage": 14.1,
+        "ram_usage_MB": 815,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.4,
+        "storage_adapter_latency_ms": 2.9,
+        "cpu_ready_ms": 380
+      },
+      {
+        "timestamp": "17:13",
+        "cpu_usage_percentage": 7.5,
+        "cpu_usage_MHz": 455,
+        "ram_usage_percentage": 14.2,
+        "ram_usage_MB": 820,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.3,
+        "storage_adapter_latency_ms": 2.8,
+        "cpu_ready_ms": 370
+      },
+      {
+        "timestamp": "17:14",
+        "cpu_usage_percentage": 7.6,
+        "cpu_usage_MHz": 460,
+        "ram_usage_percentage": 14.3,
+        "ram_usage_MB": 825,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.2,
+        "storage_adapter_latency_ms": 2.7,
+        "cpu_ready_ms": 360
+      },
+      {
+        "timestamp": "17:15",
+        "cpu_usage_percentage": 7.7,
+        "cpu_usage_MHz": 465,
+        "ram_usage_percentage": 14.4,
+        "ram_usage_MB": 830,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.1,
+        "storage_adapter_latency_ms": 2.6,
+        "cpu_ready_ms": 350
+      },
+      {
+        "timestamp": "17:16",
+        "cpu_usage_percentage": 7.8,
+        "cpu_usage_MHz": 470,
+        "ram_usage_percentage": 14.5,
+        "ram_usage_MB": 835,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 2.0,
+        "storage_adapter_latency_ms": 2.5,
+        "cpu_ready_ms": 340
+      },
+      {
+        "timestamp": "17:17",
+        "cpu_usage_percentage": 7.9,
+        "cpu_usage_MHz": 475,
+        "ram_usage_percentage": 14.6,
+        "ram_usage_MB": 840,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 1.9,
+        "storage_adapter_latency_ms": 2.4,
+        "cpu_ready_ms": 330
+      },
+      {
+        "timestamp": "17:18",
+        "cpu_usage_percentage": 8.0,
+        "cpu_usage_MHz": 480,
+        "ram_usage_percentage": 14.8,
+        "ram_usage_MB": 845,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 1.8,
+        "storage_adapter_latency_ms": 2.3,
+        "cpu_ready_ms": 320
+      },
+      {
+        "timestamp": "17:19",
+        "cpu_usage_percentage": 8.1,
+        "cpu_usage_MHz": 485,
+        "ram_usage_percentage": 14.9,
+        "ram_usage_MB": 850,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 1.7,
+        "storage_adapter_latency_ms": 2.2,
+        "cpu_ready_ms": 310
+      },
+      {
+        "timestamp": "17:20",
+        "cpu_usage_percentage": 8.2,
+        "cpu_usage_MHz": 490,
+        "ram_usage_percentage": 15.0,
+        "ram_usage_MB": 855,
+        "network_usage": {
+          "rx": 5,
+          "tx": 2
+        },
+        "disk_latency_ms": 1.6,
+        "storage_adapter_latency_ms": 2.1,
+        "cpu_ready_ms": 300
+      }
+    ]
+  }
+  ,
+  {
+    "vm_id": "vm-456",
+    "vm_name": "AD-Storage-001",
+    "uptime": "1.2 months",
+    "metrics": [
+      {
+        "timestamp": "16:50",
+        "cpu_usage_percentage": 10.2,
+        "cpu_usage_MHz": 500,
+        "ram_usage_percentage": 20.4,
+        "ram_usage_MB": 1500,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 8.2,
+        "storage_adapter_latency_ms": 9.1,
+        "cpu_ready_ms": 450
+      },
+      {
+        "timestamp": "16:51",
+        "cpu_usage_percentage": 10.4,
+        "cpu_usage_MHz": 510,
+        "ram_usage_percentage": 20.5,
+        "ram_usage_MB": 1520,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 8.0,
+        "storage_adapter_latency_ms": 9.0,
+        "cpu_ready_ms": 440
+      },
+      {
+        "timestamp": "16:52",
+        "cpu_usage_percentage": 10.5,
+        "cpu_usage_MHz": 520,
+        "ram_usage_percentage": 20.6,
+        "ram_usage_MB": 1540,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 7.9,
+        "storage_adapter_latency_ms": 8.8,
+        "cpu_ready_ms": 430
+      },
+      {
+        "timestamp": "16:53",
+        "cpu_usage_percentage": 10.7,
+        "cpu_usage_MHz": 530,
+        "ram_usage_percentage": 20.8,
+        "ram_usage_MB": 1560,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 7.7,
+        "storage_adapter_latency_ms": 8.7,
+        "cpu_ready_ms": 420
+      },
+      {
+        "timestamp": "16:54",
+        "cpu_usage_percentage": 10.9,
+        "cpu_usage_MHz": 540,
+        "ram_usage_percentage": 20.9,
+        "ram_usage_MB": 1580,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 7.6,
+        "storage_adapter_latency_ms": 8.6,
+        "cpu_ready_ms": 410
+      },
+      {
+        "timestamp": "16:55",
+        "cpu_usage_percentage": 11.0,
+        "cpu_usage_MHz": 550,
+        "ram_usage_percentage": 21.0,
+        "ram_usage_MB": 1600,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 7.5,
+        "storage_adapter_latency_ms": 8.5,
+        "cpu_ready_ms": 400
+      },
+      {
+        "timestamp": "16:56",
+        "cpu_usage_percentage": 11.1,
+        "cpu_usage_MHz": 560,
+        "ram_usage_percentage": 21.2,
+        "ram_usage_MB": 1620,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 7.3,
+        "storage_adapter_latency_ms": 8.4,
+        "cpu_ready_ms": 390
+      },
+      {
+        "timestamp": "16:57",
+        "cpu_usage_percentage": 11.2,
+        "cpu_usage_MHz": 570,
+        "ram_usage_percentage": 21.3,
+        "ram_usage_MB": 1640,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 7.2,
+        "storage_adapter_latency_ms": 8.3,
+        "cpu_ready_ms": 380
+      },
+      {
+        "timestamp": "16:58",
+        "cpu_usage_percentage": 11.3,
+        "cpu_usage_MHz": 580,
+        "ram_usage_percentage": 21.5,
+        "ram_usage_MB": 1660,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 7.0,
+        "storage_adapter_latency_ms": 8.2,
+        "cpu_ready_ms": 370
+      },
+      {
+        "timestamp": "16:59",
+        "cpu_usage_percentage": 11.5,
+        "cpu_usage_MHz": 590,
+        "ram_usage_percentage": 21.6,
+        "ram_usage_MB": 1680,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.9,
+        "storage_adapter_latency_ms": 8.0,
+        "cpu_ready_ms": 360
+      },
+      {
+        "timestamp": "17:00",
+        "cpu_usage_percentage": 11.6,
+        "cpu_usage_MHz": 600,
+        "ram_usage_percentage": 21.7,
+        "ram_usage_MB": 1700,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.8,
+        "storage_adapter_latency_ms": 7.9,
+        "cpu_ready_ms": 350
+      },
+      {
+        "timestamp": "17:01",
+        "cpu_usage_percentage": 11.7,
+        "cpu_usage_MHz": 610,
+        "ram_usage_percentage": 21.8,
+        "ram_usage_MB": 1720,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.7,
+        "storage_adapter_latency_ms": 7.8,
+        "cpu_ready_ms": 340
+      },
+      {
+        "timestamp": "17:02",
+        "cpu_usage_percentage": 11.9,
+        "cpu_usage_MHz": 620,
+        "ram_usage_percentage": 22.0,
+        "ram_usage_MB": 1740,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.6,
+        "storage_adapter_latency_ms": 7.7,
+        "cpu_ready_ms": 330
+      },
+      {
+        "timestamp": "17:03",
+        "cpu_usage_percentage": 12.0,
+        "cpu_usage_MHz": 630,
+        "ram_usage_percentage": 22.1,
+        "ram_usage_MB": 1760,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.5,
+        "storage_adapter_latency_ms": 7.6,
+        "cpu_ready_ms": 320
+      },
+      {
+        "timestamp": "17:04",
+        "cpu_usage_percentage": 12.1,
+        "cpu_usage_MHz": 640,
+        "ram_usage_percentage": 22.3,
+        "ram_usage_MB": 1780,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.4,
+        "storage_adapter_latency_ms": 7.5,
+        "cpu_ready_ms": 310
+      },
+      {
+        "timestamp": "17:05",
+        "cpu_usage_percentage": 12.2,
+        "cpu_usage_MHz": 650,
+        "ram_usage_percentage": 22.4,
+        "ram_usage_MB": 1800,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.3,
+        "storage_adapter_latency_ms": 7.4,
+        "cpu_ready_ms": 300
+      },
+      {
+        "timestamp": "17:06",
+        "cpu_usage_percentage": 12.3,
+        "cpu_usage_MHz": 660,
+        "ram_usage_percentage": 22.6,
+        "ram_usage_MB": 1820,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.2,
+        "storage_adapter_latency_ms": 7.3,
+        "cpu_ready_ms": 290
+      },
+      {
+        "timestamp": "17:07",
+        "cpu_usage_percentage": 12.4,
+        "cpu_usage_MHz": 670,
+        "ram_usage_percentage": 22.7,
+        "ram_usage_MB": 1840,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.1,
+        "storage_adapter_latency_ms": 7.2,
+        "cpu_ready_ms": 280
+      },
+      {
+        "timestamp": "17:08",
+        "cpu_usage_percentage": 12.5,
+        "cpu_usage_MHz": 680,
+        "ram_usage_percentage": 22.9,
+        "ram_usage_MB": 1860,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 6.0,
+        "storage_adapter_latency_ms": 7.1,
+        "cpu_ready_ms": 270
+      },
+      {
+        "timestamp": "17:09",
+        "cpu_usage_percentage": 12.6,
+        "cpu_usage_MHz": 690,
+        "ram_usage_percentage": 23.0,
+        "ram_usage_MB": 1880,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.9,
+        "storage_adapter_latency_ms": 7.0,
+        "cpu_ready_ms": 260
+      },
+      {
+        "timestamp": "17:10",
+        "cpu_usage_percentage": 12.8,
+        "cpu_usage_MHz": 700,
+        "ram_usage_percentage": 23.1,
+        "ram_usage_MB": 1900,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.8,
+        "storage_adapter_latency_ms": 6.9,
+        "cpu_ready_ms": 250
+      },
+      {
+        "timestamp": "17:11",
+        "cpu_usage_percentage": 12.9,
+        "cpu_usage_MHz": 710,
+        "ram_usage_percentage": 23.2,
+        "ram_usage_MB": 1920,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.7,
+        "storage_adapter_latency_ms": 6.8,
+        "cpu_ready_ms": 240
+      },
+      {
+        "timestamp": "17:12",
+        "cpu_usage_percentage": 13.0,
+        "cpu_usage_MHz": 720,
+        "ram_usage_percentage": 23.4,
+        "ram_usage_MB": 1940,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.6,
+        "storage_adapter_latency_ms": 6.7,
+        "cpu_ready_ms": 230
+      },
+      {
+        "timestamp": "17:13",
+        "cpu_usage_percentage": 13.1,
+        "cpu_usage_MHz": 730,
+        "ram_usage_percentage": 23.5,
+        "ram_usage_MB": 1960,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.5,
+        "storage_adapter_latency_ms": 6.6,
+        "cpu_ready_ms": 220
+      },
+      {
+        "timestamp": "17:14",
+        "cpu_usage_percentage": 13.2,
+        "cpu_usage_MHz": 740,
+        "ram_usage_percentage": 23.6,
+        "ram_usage_MB": 1980,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.4,
+        "storage_adapter_latency_ms": 6.5,
+        "cpu_ready_ms": 210
+      },
+      {
+        "timestamp": "17:15",
+        "cpu_usage_percentage": 13.3,
+        "cpu_usage_MHz": 750,
+        "ram_usage_percentage": 23.7,
+        "ram_usage_MB": 2000,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.3,
+        "storage_adapter_latency_ms": 6.4,
+        "cpu_ready_ms": 200
+      },
+      {
+        "timestamp": "17:16",
+        "cpu_usage_percentage": 13.4,
+        "cpu_usage_MHz": 760,
+        "ram_usage_percentage": 23.8,
+        "ram_usage_MB": 2020,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.2,
+        "storage_adapter_latency_ms": 6.3,
+        "cpu_ready_ms": 190
+      },
+      {
+        "timestamp": "17:17",
+        "cpu_usage_percentage": 13.5,
+        "cpu_usage_MHz": 770,
+        "ram_usage_percentage": 24.0,
+        "ram_usage_MB": 2040,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.1,
+        "storage_adapter_latency_ms": 6.2,
+        "cpu_ready_ms": 180
+      },
+      {
+        "timestamp": "17:18",
+        "cpu_usage_percentage": 13.6,
+        "cpu_usage_MHz": 780,
+        "ram_usage_percentage": 24.1,
+        "ram_usage_MB": 2060,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 5.0,
+        "storage_adapter_latency_ms": 6.1,
+        "cpu_ready_ms": 170
+      },
+      {
+        "timestamp": "17:19",
+        "cpu_usage_percentage": 13.7,
+        "cpu_usage_MHz": 790,
+        "ram_usage_percentage": 24.3,
+        "ram_usage_MB": 2080,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 4.9,
+        "storage_adapter_latency_ms": 6.0,
+        "cpu_ready_ms": 160
+      },
+      {
+        "timestamp": "17:20",
+        "cpu_usage_percentage": 13.8,
+        "cpu_usage_MHz": 800,
+        "ram_usage_percentage": 24.4,
+        "ram_usage_MB": 2100,
+        "network_usage": {
+          "rx": 12,
+          "tx": 6
+        },
+        "disk_latency_ms": 4.8,
+        "storage_adapter_latency_ms": 5.9,
+        "cpu_ready_ms": 150
+      }
+    ]
+  },
+  {
+  "vm_id": "vm-789",
+  "vm_name": "AD-Mail-001",
+  "uptime": "3 weeks",
+  "metrics": [
+    {
+      "timestamp": "16:50",
+      "cpu_usage_percentage": 15.1,
+      "cpu_usage_MHz": 300,
+      "ram_usage_percentage": 30.3,
+      "ram_usage_MB": 1200,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 6.5,
+      "storage_adapter_latency_ms": 7.1,
+      "cpu_ready_ms": 320
+    },
+    {
+      "timestamp": "16:51",
+      "cpu_usage_percentage": 15.2,
+      "cpu_usage_MHz": 310,
+      "ram_usage_percentage": 30.4,
+      "ram_usage_MB": 1220,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 6.3,
+      "storage_adapter_latency_ms": 7.0,
+      "cpu_ready_ms": 310
+    },
+    {
+      "timestamp": "16:52",
+      "cpu_usage_percentage": 15.3,
+      "cpu_usage_MHz": 320,
+      "ram_usage_percentage": 30.5,
+      "ram_usage_MB": 1240,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 6.2,
+      "storage_adapter_latency_ms": 6.9,
+      "cpu_ready_ms": 300
+    },
+    {
+      "timestamp": "16:53",
+      "cpu_usage_percentage": 15.4,
+      "cpu_usage_MHz": 330,
+      "ram_usage_percentage": 30.7,
+      "ram_usage_MB": 1260,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 6.1,
+      "storage_adapter_latency_ms": 6.8,
+      "cpu_ready_ms": 290
+    },
+    {
+      "timestamp": "16:54",
+      "cpu_usage_percentage": 15.5,
+      "cpu_usage_MHz": 340,
+      "ram_usage_percentage": 30.8,
+      "ram_usage_MB": 1280,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 6.0,
+      "storage_adapter_latency_ms": 6.7,
+      "cpu_ready_ms": 280
+    },
+    {
+      "timestamp": "16:55",
+      "cpu_usage_percentage": 15.6,
+      "cpu_usage_MHz": 350,
+      "ram_usage_percentage": 31.0,
+      "ram_usage_MB": 1300,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.9,
+      "storage_adapter_latency_ms": 6.6,
+      "cpu_ready_ms": 270
+    },
+    {
+      "timestamp": "16:56",
+      "cpu_usage_percentage": 15.7,
+      "cpu_usage_MHz": 360,
+      "ram_usage_percentage": 31.1,
+      "ram_usage_MB": 1320,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.8,
+      "storage_adapter_latency_ms": 6.5,
+      "cpu_ready_ms": 260
+    },
+    {
+      "timestamp": "16:57",
+      "cpu_usage_percentage": 15.8,
+      "cpu_usage_MHz": 370,
+      "ram_usage_percentage": 31.3,
+      "ram_usage_MB": 1340,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.7,
+      "storage_adapter_latency_ms": 6.4,
+      "cpu_ready_ms": 250
+    },
+    {
+      "timestamp": "16:58",
+      "cpu_usage_percentage": 15.9,
+      "cpu_usage_MHz": 380,
+      "ram_usage_percentage": 31.4,
+      "ram_usage_MB": 1360,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.6,
+      "storage_adapter_latency_ms": 6.3,
+      "cpu_ready_ms": 240
+    },
+    {
+      "timestamp": "16:59",
+      "cpu_usage_percentage": 16.0,
+      "cpu_usage_MHz": 390,
+      "ram_usage_percentage": 31.5,
+      "ram_usage_MB": 1380,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.5,
+      "storage_adapter_latency_ms": 6.2,
+      "cpu_ready_ms": 230
+    },
+    {
+      "timestamp": "17:00",
+      "cpu_usage_percentage": 16.1,
+      "cpu_usage_MHz": 400,
+      "ram_usage_percentage": 31.6,
+      "ram_usage_MB": 1400,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.4,
+      "storage_adapter_latency_ms": 6.1,
+      "cpu_ready_ms": 220
+    },
+    {
+      "timestamp": "17:01",
+      "cpu_usage_percentage": 16.2,
+      "cpu_usage_MHz": 410,
+      "ram_usage_percentage": 31.8,
+      "ram_usage_MB": 1420,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.3,
+      "storage_adapter_latency_ms": 6.0,
+      "cpu_ready_ms": 210
+    },
+    {
+      "timestamp": "17:02",
+      "cpu_usage_percentage": 16.3,
+      "cpu_usage_MHz": 420,
+      "ram_usage_percentage": 31.9,
+      "ram_usage_MB": 1440,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.2,
+      "storage_adapter_latency_ms": 5.9,
+      "cpu_ready_ms": 200
+    },
+    {
+      "timestamp": "17:03",
+      "cpu_usage_percentage": 16.4,
+      "cpu_usage_MHz": 430,
+      "ram_usage_percentage": 32.0,
+      "ram_usage_MB": 1460,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.1,
+      "storage_adapter_latency_ms": 5.8,
+      "cpu_ready_ms": 190
+    },
+    {
+      "timestamp": "17:04",
+      "cpu_usage_percentage": 16.5,
+      "cpu_usage_MHz": 440,
+      "ram_usage_percentage": 32.2,
+      "ram_usage_MB": 1480,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 5.0,
+      "storage_adapter_latency_ms": 5.7,
+      "cpu_ready_ms": 180
+    },
+    {
+      "timestamp": "17:05",
+      "cpu_usage_percentage": 16.6,
+      "cpu_usage_MHz": 450,
+      "ram_usage_percentage": 32.3,
+      "ram_usage_MB": 1500,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.9,
+      "storage_adapter_latency_ms": 5.6,
+      "cpu_ready_ms": 170
+    },
+    {
+      "timestamp": "17:06",
+      "cpu_usage_percentage": 16.7,
+      "cpu_usage_MHz": 460,
+      "ram_usage_percentage": 32.4,
+      "ram_usage_MB": 1520,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.8,
+      "storage_adapter_latency_ms": 5.5,
+      "cpu_ready_ms": 160
+    },
+    {
+      "timestamp": "17:07",
+      "cpu_usage_percentage": 16.8,
+      "cpu_usage_MHz": 470,
+      "ram_usage_percentage": 32.5,
+      "ram_usage_MB": 1540,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.7,
+      "storage_adapter_latency_ms": 5.4,
+      "cpu_ready_ms": 150
+    },
+    {
+      "timestamp": "17:08",
+      "cpu_usage_percentage": 16.9,
+      "cpu_usage_MHz": 480,
+      "ram_usage_percentage": 32.6,
+      "ram_usage_MB": 1560,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.6,
+      "storage_adapter_latency_ms": 5.3,
+      "cpu_ready_ms": 140
+    },
+    {
+      "timestamp": "17:09",
+      "cpu_usage_percentage": 17.0,
+      "cpu_usage_MHz": 490,
+      "ram_usage_percentage": 32.8,
+      "ram_usage_MB": 1580,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.5,
+      "storage_adapter_latency_ms": 5.2,
+      "cpu_ready_ms": 130
+    },
+    {
+      "timestamp": "17:10",
+      "cpu_usage_percentage": 17.1,
+      "cpu_usage_MHz": 500,
+      "ram_usage_percentage": 32.9,
+      "ram_usage_MB": 1600,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.4,
+      "storage_adapter_latency_ms": 5.1,
+      "cpu_ready_ms": 120
+    },
+    {
+      "timestamp": "17:11",
+      "cpu_usage_percentage": 17.2,
+      "cpu_usage_MHz": 510,
+      "ram_usage_percentage": 33.0,
+      "ram_usage_MB": 1620,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.3,
+      "storage_adapter_latency_ms": 5.0,
+      "cpu_ready_ms": 110
+    },
+    {
+      "timestamp": "17:12",
+      "cpu_usage_percentage": 17.3,
+      "cpu_usage_MHz": 520,
+      "ram_usage_percentage": 33.1,
+      "ram_usage_MB": 1640,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.2,
+      "storage_adapter_latency_ms": 4.9,
+      "cpu_ready_ms": 100
+    },
+    {
+      "timestamp": "17:13",
+      "cpu_usage_percentage": 17.4,
+      "cpu_usage_MHz": 530,
+      "ram_usage_percentage": 33.2,
+      "ram_usage_MB": 1660,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.1,
+      "storage_adapter_latency_ms": 4.8,
+      "cpu_ready_ms": 90
+    },
+    {
+      "timestamp": "17:14",
+      "cpu_usage_percentage": 17.5,
+      "cpu_usage_MHz": 540,
+      "ram_usage_percentage": 33.4,
+      "ram_usage_MB": 1680,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 4.0,
+      "storage_adapter_latency_ms": 4.7,
+      "cpu_ready_ms": 80
+    },
+    {
+      "timestamp": "17:15",
+      "cpu_usage_percentage": 17.6,
+      "cpu_usage_MHz": 550,
+      "ram_usage_percentage": 33.5,
+      "ram_usage_MB": 1700,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 3.9,
+      "storage_adapter_latency_ms": 4.6,
+      "cpu_ready_ms": 70
+    },
+    {
+      "timestamp": "17:16",
+      "cpu_usage_percentage": 17.7,
+      "cpu_usage_MHz": 560,
+      "ram_usage_percentage": 33.6,
+      "ram_usage_MB": 1720,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 3.8,
+      "storage_adapter_latency_ms": 4.5,
+      "cpu_ready_ms": 60
+    },
+    {
+      "timestamp": "17:17",
+      "cpu_usage_percentage": 17.8,
+      "cpu_usage_MHz": 570,
+      "ram_usage_percentage": 33.7,
+      "ram_usage_MB": 1740,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 3.7,
+      "storage_adapter_latency_ms": 4.4,
+      "cpu_ready_ms": 50
+    },
+    {
+      "timestamp": "17:18",
+      "cpu_usage_percentage": 17.9,
+      "cpu_usage_MHz": 580,
+      "ram_usage_percentage": 33.9,
+      "ram_usage_MB": 1760,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 3.6,
+      "storage_adapter_latency_ms": 4.3,
+      "cpu_ready_ms": 40
+    },
+    {
+      "timestamp": "17:19",
+      "cpu_usage_percentage": 18.0,
+      "cpu_usage_MHz": 590,
+      "ram_usage_percentage": 34.0,
+      "ram_usage_MB": 1780,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 3.5,
+      "storage_adapter_latency_ms": 4.2,
+      "cpu_ready_ms": 30
+    },
+    {
+      "timestamp": "17:20",
+      "cpu_usage_percentage": 18.1,
+      "cpu_usage_MHz": 600,
+      "ram_usage_percentage": 34.1,
+      "ram_usage_MB": 1800,
+      "network_usage": {
+        "rx": 20,
+        "tx": 10
+      },
+      "disk_latency_ms": 3.4,
+      "storage_adapter_latency_ms": 4.1,
+      "cpu_ready_ms": 20
+    }
+  ]
+}
+,
+{
+  "vm_id": "vm-456",
+  "vm_name": "AD-API-001",
+  "uptime": "2 months",
+  "metrics": [
+    {
+      "timestamp": "16:50",
+      "cpu_usage_percentage": 10.0,
+      "cpu_usage_MHz": 250,
+      "ram_usage_percentage": 25.0,
+      "ram_usage_MB": 1000,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 7.0,
+      "storage_adapter_latency_ms": 8.0,
+      "cpu_ready_ms": 400
+    },
+    {
+      "timestamp": "16:51",
+      "cpu_usage_percentage": 10.2,
+      "cpu_usage_MHz": 260,
+      "ram_usage_percentage": 25.2,
+      "ram_usage_MB": 1020,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.9,
+      "storage_adapter_latency_ms": 7.9,
+      "cpu_ready_ms": 390
+    },
+    {
+      "timestamp": "16:52",
+      "cpu_usage_percentage": 10.4,
+      "cpu_usage_MHz": 270,
+      "ram_usage_percentage": 25.4,
+      "ram_usage_MB": 1040,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.8,
+      "storage_adapter_latency_ms": 7.8,
+      "cpu_ready_ms": 380
+    },
+    {
+      "timestamp": "16:53",
+      "cpu_usage_percentage": 10.5,
+      "cpu_usage_MHz": 280,
+      "ram_usage_percentage": 25.5,
+      "ram_usage_MB": 1060,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.7,
+      "storage_adapter_latency_ms": 7.7,
+      "cpu_ready_ms": 370
+    },
+    {
+      "timestamp": "16:54",
+      "cpu_usage_percentage": 10.6,
+      "cpu_usage_MHz": 290,
+      "ram_usage_percentage": 25.7,
+      "ram_usage_MB": 1080,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.6,
+      "storage_adapter_latency_ms": 7.6,
+      "cpu_ready_ms": 360
+    },
+    {
+      "timestamp": "16:55",
+      "cpu_usage_percentage": 10.7,
+      "cpu_usage_MHz": 300,
+      "ram_usage_percentage": 25.8,
+      "ram_usage_MB": 1100,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.5,
+      "storage_adapter_latency_ms": 7.5,
+      "cpu_ready_ms": 350
+    },
+    {
+      "timestamp": "16:56",
+      "cpu_usage_percentage": 10.8,
+      "cpu_usage_MHz": 310,
+      "ram_usage_percentage": 26.0,
+      "ram_usage_MB": 1120,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.4,
+      "storage_adapter_latency_ms": 7.4,
+      "cpu_ready_ms": 340
+    },
+    {
+      "timestamp": "16:57",
+      "cpu_usage_percentage": 10.9,
+      "cpu_usage_MHz": 320,
+      "ram_usage_percentage": 26.1,
+      "ram_usage_MB": 1140,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.3,
+      "storage_adapter_latency_ms": 7.3,
+      "cpu_ready_ms": 330
+    },
+    {
+      "timestamp": "16:58",
+      "cpu_usage_percentage": 11.0,
+      "cpu_usage_MHz": 330,
+      "ram_usage_percentage": 26.2,
+      "ram_usage_MB": 1160,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.2,
+      "storage_adapter_latency_ms": 7.2,
+      "cpu_ready_ms": 320
+    },
+    {
+      "timestamp": "16:59",
+      "cpu_usage_percentage": 11.1,
+      "cpu_usage_MHz": 340,
+      "ram_usage_percentage": 26.4,
+      "ram_usage_MB": 1180,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.1,
+      "storage_adapter_latency_ms": 7.1,
+      "cpu_ready_ms": 310
+    },
+    {
+      "timestamp": "17:00",
+      "cpu_usage_percentage": 11.2,
+      "cpu_usage_MHz": 350,
+      "ram_usage_percentage": 26.5,
+      "ram_usage_MB": 1200,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.0,
+      "storage_adapter_latency_ms": 7.0,
+      "cpu_ready_ms": 300
+    },
+    {
+      "timestamp": "17:01",
+      "cpu_usage_percentage": 11.3,
+      "cpu_usage_MHz": 360,
+      "ram_usage_percentage": 26.7,
+      "ram_usage_MB": 1220,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.9,
+      "storage_adapter_latency_ms": 6.9,
+      "cpu_ready_ms": 290
+    },
+    {
+      "timestamp": "17:02",
+      "cpu_usage_percentage": 11.4,
+      "cpu_usage_MHz": 370,
+      "ram_usage_percentage": 26.8,
+      "ram_usage_MB": 1240,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.8,
+      "storage_adapter_latency_ms": 6.8,
+      "cpu_ready_ms": 280
+    },
+    {
+      "timestamp": "17:03",
+      "cpu_usage_percentage": 11.5,
+      "cpu_usage_MHz": 380,
+      "ram_usage_percentage": 27.0,
+      "ram_usage_MB": 1260,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.7,
+      "storage_adapter_latency_ms": 6.7,
+      "cpu_ready_ms": 270
+    },
+    {
+      "timestamp": "17:04",
+      "cpu_usage_percentage": 11.6,
+      "cpu_usage_MHz": 390,
+      "ram_usage_percentage": 27.1,
+      "ram_usage_MB": 1280,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.6,
+      "storage_adapter_latency_ms": 6.6,
+      "cpu_ready_ms": 260
+    },
+    {
+      "timestamp": "17:05",
+      "cpu_usage_percentage": 11.7,
+      "cpu_usage_MHz": 400,
+      "ram_usage_percentage": 27.2,
+      "ram_usage_MB": 1300,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.5,
+      "storage_adapter_latency_ms": 6.5,
+      "cpu_ready_ms": 250
+    },
+    {
+      "timestamp": "17:06",
+      "cpu_usage_percentage": 11.8,
+      "cpu_usage_MHz": 410,
+      "ram_usage_percentage": 27.4,
+      "ram_usage_MB": 1320,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.4,
+      "storage_adapter_latency_ms": 6.4,
+      "cpu_ready_ms": 240
+    },
+    {
+      "timestamp": "17:07",
+      "cpu_usage_percentage": 11.9,
+      "cpu_usage_MHz": 420,
+      "ram_usage_percentage": 27.5,
+      "ram_usage_MB": 1340,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.3,
+      "storage_adapter_latency_ms": 6.3,
+      "cpu_ready_ms": 230
+    },
+    {
+      "timestamp": "17:08",
+      "cpu_usage_percentage": 12.0,
+      "cpu_usage_MHz": 430,
+      "ram_usage_percentage": 27.6,
+      "ram_usage_MB": 1360,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.2,
+      "storage_adapter_latency_ms": 6.2,
+      "cpu_ready_ms": 220
+    },
+    {
+      "timestamp": "17:09",
+      "cpu_usage_percentage": 12.1,
+      "cpu_usage_MHz": 440,
+      "ram_usage_percentage": 27.8,
+      "ram_usage_MB": 1380,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.1,
+      "storage_adapter_latency_ms": 6.1,
+      "cpu_ready_ms": 210
+    },
+    {
+      "timestamp": "17:10",
+      "cpu_usage_percentage": 12.2,
+      "cpu_usage_MHz": 450,
+      "ram_usage_percentage": 27.9,
+      "ram_usage_MB": 1400,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.0,
+      "storage_adapter_latency_ms": 6.0,
+      "cpu_ready_ms": 200
+    },
+    {
+      "timestamp": "17:11",
+      "cpu_usage_percentage": 12.3,
+      "cpu_usage_MHz": 460,
+      "ram_usage_percentage": 28.0,
+      "ram_usage_MB": 1420,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.9,
+      "storage_adapter_latency_ms": 5.9,
+      "cpu_ready_ms": 190
+    },
+    {
+      "timestamp": "17:12",
+      "cpu_usage_percentage": 12.4,
+      "cpu_usage_MHz": 470,
+      "ram_usage_percentage": 28.1,
+      "ram_usage_MB": 1440,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.8,
+      "storage_adapter_latency_ms": 5.8,
+      "cpu_ready_ms": 180
+    },
+    {
+      "timestamp": "17:13",
+      "cpu_usage_percentage": 12.5,
+      "cpu_usage_MHz": 480,
+      "ram_usage_percentage": 28.3,
+      "ram_usage_MB": 1460,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.7,
+      "storage_adapter_latency_ms": 5.7,
+      "cpu_ready_ms": 170
+    },
+    {
+      "timestamp": "17:14",
+      "cpu_usage_percentage": 12.6,
+      "cpu_usage_MHz": 490,
+      "ram_usage_percentage": 28.4,
+      "ram_usage_MB": 1480,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.6,
+      "storage_adapter_latency_ms": 5.6,
+      "cpu_ready_ms": 160
+    },
+    {
+      "timestamp": "17:15",
+      "cpu_usage_percentage": 12.7,
+      "cpu_usage_MHz": 500,
+      "ram_usage_percentage": 28.5,
+      "ram_usage_MB": 1500,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.5,
+      "storage_adapter_latency_ms": 5.5,
+      "cpu_ready_ms": 150
+    },
+    {
+      "timestamp": "17:16",
+      "cpu_usage_percentage": 12.8,
+      "cpu_usage_MHz": 510,
+      "ram_usage_percentage": 28.6,
+      "ram_usage_MB": 1520,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.4,
+      "storage_adapter_latency_ms": 5.4,
+      "cpu_ready_ms": 140
+    },
+    {
+      "timestamp": "17:17",
+      "cpu_usage_percentage": 12.9,
+      "cpu_usage_MHz": 520,
+      "ram_usage_percentage": 28.8,
+      "ram_usage_MB": 1540,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.3,
+      "storage_adapter_latency_ms": 5.3,
+      "cpu_ready_ms": 130
+    },
+    {
+      "timestamp": "17:18",
+      "cpu_usage_percentage": 13.0,
+      "cpu_usage_MHz": 530,
+      "ram_usage_percentage": 28.9,
+      "ram_usage_MB": 1560,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.2,
+      "storage_adapter_latency_ms": 5.2,
+      "cpu_ready_ms": 120
+    },
+    {
+      "timestamp": "17:19",
+      "cpu_usage_percentage": 13.1,
+      "cpu_usage_MHz": 540,
+      "ram_usage_percentage": 29.0,
+      "ram_usage_MB": 1580,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.1,
+      "storage_adapter_latency_ms": 5.1,
+      "cpu_ready_ms": 110
+    },
+    {
+      "timestamp": "17:20",
+      "cpu_usage_percentage": 13.2,
+      "cpu_usage_MHz": 550,
+      "ram_usage_percentage": 29.2,
+      "ram_usage_MB": 1600,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.0,
+      "storage_adapter_latency_ms": 5.0,
+      "cpu_ready_ms": 100
+    }
+  ]
+}
+,
+{
+  "vm_id": "vm-789",
+  "vm_name": "AD-Monitor-001",
+  "uptime": "1 month",
+  "metrics": [
+    {
+      "timestamp": "16:50",
+      "cpu_usage_percentage": 5.0,
+      "cpu_usage_MHz": 200,
+      "ram_usage_percentage": 15.0,
+      "ram_usage_MB": 600,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 10.0,
+      "storage_adapter_latency_ms": 12.0,
+      "cpu_ready_ms": 500
+    },
+    {
+      "timestamp": "16:51",
+      "cpu_usage_percentage": 5.1,
+      "cpu_usage_MHz": 210,
+      "ram_usage_percentage": 15.2,
+      "ram_usage_MB": 620,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 9.8,
+      "storage_adapter_latency_ms": 11.8,
+      "cpu_ready_ms": 490
+    },
+    {
+      "timestamp": "16:52",
+      "cpu_usage_percentage": 5.3,
+      "cpu_usage_MHz": 220,
+      "ram_usage_percentage": 15.4,
+      "ram_usage_MB": 640,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 9.6,
+      "storage_adapter_latency_ms": 11.6,
+      "cpu_ready_ms": 480
+    },
+    {
+      "timestamp": "16:53",
+      "cpu_usage_percentage": 5.5,
+      "cpu_usage_MHz": 230,
+      "ram_usage_percentage": 15.5,
+      "ram_usage_MB": 660,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 9.4,
+      "storage_adapter_latency_ms": 11.4,
+      "cpu_ready_ms": 470
+    },
+    {
+      "timestamp": "16:54",
+      "cpu_usage_percentage": 5.6,
+      "cpu_usage_MHz": 240,
+      "ram_usage_percentage": 15.7,
+      "ram_usage_MB": 680,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 9.2,
+      "storage_adapter_latency_ms": 11.2,
+      "cpu_ready_ms": 460
+    },
+    {
+      "timestamp": "16:55",
+      "cpu_usage_percentage": 5.7,
+      "cpu_usage_MHz": 250,
+      "ram_usage_percentage": 15.8,
+      "ram_usage_MB": 700,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 9.0,
+      "storage_adapter_latency_ms": 11.0,
+      "cpu_ready_ms": 450
+    },
+    {
+      "timestamp": "16:56",
+      "cpu_usage_percentage": 5.8,
+      "cpu_usage_MHz": 260,
+      "ram_usage_percentage": 16.0,
+      "ram_usage_MB": 720,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 8.8,
+      "storage_adapter_latency_ms": 10.8,
+      "cpu_ready_ms": 440
+    },
+    {
+      "timestamp": "16:57",
+      "cpu_usage_percentage": 5.9,
+      "cpu_usage_MHz": 270,
+      "ram_usage_percentage": 16.2,
+      "ram_usage_MB": 740,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 8.6,
+      "storage_adapter_latency_ms": 10.6,
+      "cpu_ready_ms": 430
+    },
+    {
+      "timestamp": "16:58",
+      "cpu_usage_percentage": 6.0,
+      "cpu_usage_MHz": 280,
+      "ram_usage_percentage": 16.3,
+      "ram_usage_MB": 760,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 8.5,
+      "storage_adapter_latency_ms": 10.5,
+      "cpu_ready_ms": 420
+    },
+    {
+      "timestamp": "16:59",
+      "cpu_usage_percentage": 6.1,
+      "cpu_usage_MHz": 290,
+      "ram_usage_percentage": 16.5,
+      "ram_usage_MB": 780,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 8.4,
+      "storage_adapter_latency_ms": 10.4,
+      "cpu_ready_ms": 410
+    },
+    {
+      "timestamp": "17:00",
+      "cpu_usage_percentage": 6.2,
+      "cpu_usage_MHz": 300,
+      "ram_usage_percentage": 16.6,
+      "ram_usage_MB": 800,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 8.3,
+      "storage_adapter_latency_ms": 10.3,
+      "cpu_ready_ms": 400
+    },
+    {
+      "timestamp": "17:01",
+      "cpu_usage_percentage": 6.3,
+      "cpu_usage_MHz": 310,
+      "ram_usage_percentage": 16.8,
+      "ram_usage_MB": 820,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 8.1,
+      "storage_adapter_latency_ms": 10.1,
+      "cpu_ready_ms": 390
+    },
+    {
+      "timestamp": "17:02",
+      "cpu_usage_percentage": 6.4,
+      "cpu_usage_MHz": 320,
+      "ram_usage_percentage": 17.0,
+      "ram_usage_MB": 840,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 8.0,
+      "storage_adapter_latency_ms": 10.0,
+      "cpu_ready_ms": 380
+    },
+    {
+      "timestamp": "17:03",
+      "cpu_usage_percentage": 6.5,
+      "cpu_usage_MHz": 330,
+      "ram_usage_percentage": 17.1,
+      "ram_usage_MB": 860,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.9,
+      "storage_adapter_latency_ms": 9.9,
+      "cpu_ready_ms": 370
+    },
+    {
+      "timestamp": "17:04",
+      "cpu_usage_percentage": 6.6,
+      "cpu_usage_MHz": 340,
+      "ram_usage_percentage": 17.3,
+      "ram_usage_MB": 880,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.8,
+      "storage_adapter_latency_ms": 9.8,
+      "cpu_ready_ms": 360
+    },
+    {
+      "timestamp": "17:05",
+      "cpu_usage_percentage": 6.7,
+      "cpu_usage_MHz": 350,
+      "ram_usage_percentage": 17.5,
+      "ram_usage_MB": 900,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.7,
+      "storage_adapter_latency_ms": 9.7,
+      "cpu_ready_ms": 350
+    },
+    {
+      "timestamp": "17:06",
+      "cpu_usage_percentage": 6.8,
+      "cpu_usage_MHz": 360,
+      "ram_usage_percentage": 17.6,
+      "ram_usage_MB": 920,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.6,
+      "storage_adapter_latency_ms": 9.6,
+      "cpu_ready_ms": 340
+    },
+    {
+      "timestamp": "17:07",
+      "cpu_usage_percentage": 6.9,
+      "cpu_usage_MHz": 370,
+      "ram_usage_percentage": 17.8,
+      "ram_usage_MB": 940,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.5,
+      "storage_adapter_latency_ms": 9.5,
+      "cpu_ready_ms": 330
+    },
+    {
+      "timestamp": "17:08",
+      "cpu_usage_percentage": 7.0,
+      "cpu_usage_MHz": 380,
+      "ram_usage_percentage": 18.0,
+      "ram_usage_MB": 960,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.4,
+      "storage_adapter_latency_ms": 9.4,
+      "cpu_ready_ms": 320
+    },
+    {
+      "timestamp": "17:09",
+      "cpu_usage_percentage": 7.1,
+      "cpu_usage_MHz": 390,
+      "ram_usage_percentage": 18.1,
+      "ram_usage_MB": 980,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.3,
+      "storage_adapter_latency_ms": 9.3,
+      "cpu_ready_ms": 310
+    },
+    {
+      "timestamp": "17:10",
+      "cpu_usage_percentage": 7.2,
+      "cpu_usage_MHz": 400,
+      "ram_usage_percentage": 18.3,
+      "ram_usage_MB": 1000,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.2,
+      "storage_adapter_latency_ms": 9.2,
+      "cpu_ready_ms": 300
+    },
+    {
+      "timestamp": "17:11",
+      "cpu_usage_percentage": 7.3,
+      "cpu_usage_MHz": 410,
+      "ram_usage_percentage": 18.5,
+      "ram_usage_MB": 1020,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.1,
+      "storage_adapter_latency_ms": 9.1,
+      "cpu_ready_ms": 290
+    },
+    {
+      "timestamp": "17:12",
+      "cpu_usage_percentage": 7.4,
+      "cpu_usage_MHz": 420,
+      "ram_usage_percentage": 18.6,
+      "ram_usage_MB": 1040,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 7.0,
+      "storage_adapter_latency_ms": 9.0,
+      "cpu_ready_ms": 280
+    },
+    {
+      "timestamp": "17:13",
+      "cpu_usage_percentage": 7.5,
+      "cpu_usage_MHz": 430,
+      "ram_usage_percentage": 18.7,
+      "ram_usage_MB": 1060,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.9,
+      "storage_adapter_latency_ms": 8.9,
+      "cpu_ready_ms": 270
+    },
+    {
+      "timestamp": "17:14",
+      "cpu_usage_percentage": 7.6,
+      "cpu_usage_MHz": 440,
+      "ram_usage_percentage": 18.8,
+      "ram_usage_MB": 1080,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.8,
+      "storage_adapter_latency_ms": 8.8,
+      "cpu_ready_ms": 260
+    },
+    {
+      "timestamp": "17:15",
+      "cpu_usage_percentage": 7.7,
+      "cpu_usage_MHz": 450,
+      "ram_usage_percentage": 18.9,
+      "ram_usage_MB": 1100,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.7,
+      "storage_adapter_latency_ms": 8.7,
+      "cpu_ready_ms": 250
+    },
+    {
+      "timestamp": "17:16",
+      "cpu_usage_percentage": 7.8,
+      "cpu_usage_MHz": 460,
+      "ram_usage_percentage": 19.0,
+      "ram_usage_MB": 1120,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.6,
+      "storage_adapter_latency_ms": 8.6,
+      "cpu_ready_ms": 240
+    },
+    {
+      "timestamp": "17:17",
+      "cpu_usage_percentage": 7.9,
+      "cpu_usage_MHz": 470,
+      "ram_usage_percentage": 19.2,
+      "ram_usage_MB": 1140,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.5,
+      "storage_adapter_latency_ms": 8.5,
+      "cpu_ready_ms": 230
+    },
+    {
+      "timestamp": "17:18",
+      "cpu_usage_percentage": 8.0,
+      "cpu_usage_MHz": 480,
+      "ram_usage_percentage": 19.3,
+      "ram_usage_MB": 1160,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.4,
+      "storage_adapter_latency_ms": 8.4,
+      "cpu_ready_ms": 220
+    },
+    {
+      "timestamp": "17:19",
+      "cpu_usage_percentage": 8.1,
+      "cpu_usage_MHz": 490,
+      "ram_usage_percentage": 19.5,
+      "ram_usage_MB": 1180,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.3,
+      "storage_adapter_latency_ms": 8.3,
+      "cpu_ready_ms": 210
+    },
+    {
+      "timestamp": "17:20",
+      "cpu_usage_percentage": 8.2,
+      "cpu_usage_MHz": 500,
+      "ram_usage_percentage": 19.6,
+      "ram_usage_MB": 1200,
+      "network_usage": {
+        "rx": 20,
+        "tx": 18
+      },
+      "disk_latency_ms": 6.2,
+      "storage_adapter_latency_ms": 8.2,
+      "cpu_ready_ms": 200
+    }
+  ]
+}
+,
+{
+  "vm_id": "vm-456",
+  "vm_name": "AD-Test-001",
+  "uptime": "2 weeks",
+  "metrics": [
+    {
+      "timestamp": "16:50",
+      "cpu_usage_percentage": 3.2,
+      "cpu_usage_MHz": 150,
+      "ram_usage_percentage": 10.0,
+      "ram_usage_MB": 400,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 12.0,
+      "storage_adapter_latency_ms": 14.0,
+      "cpu_ready_ms": 600
+    },
+    {
+      "timestamp": "16:51",
+      "cpu_usage_percentage": 3.3,
+      "cpu_usage_MHz": 160,
+      "ram_usage_percentage": 10.5,
+      "ram_usage_MB": 420,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 11.5,
+      "storage_adapter_latency_ms": 13.5,
+      "cpu_ready_ms": 590
+    },
+    {
+      "timestamp": "16:52",
+      "cpu_usage_percentage": 3.5,
+      "cpu_usage_MHz": 170,
+      "ram_usage_percentage": 10.7,
+      "ram_usage_MB": 440,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 11.0,
+      "storage_adapter_latency_ms": 13.0,
+      "cpu_ready_ms": 580
+    },
+    {
+      "timestamp": "16:53",
+      "cpu_usage_percentage": 3.7,
+      "cpu_usage_MHz": 180,
+      "ram_usage_percentage": 11.0,
+      "ram_usage_MB": 460,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 10.5,
+      "storage_adapter_latency_ms": 12.5,
+      "cpu_ready_ms": 570
+    },
+    {
+      "timestamp": "16:54",
+      "cpu_usage_percentage": 3.8,
+      "cpu_usage_MHz": 190,
+      "ram_usage_percentage": 11.3,
+      "ram_usage_MB": 480,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 10.2,
+      "storage_adapter_latency_ms": 12.2,
+      "cpu_ready_ms": 560
+    },
+    {
+      "timestamp": "16:55",
+      "cpu_usage_percentage": 3.9,
+      "cpu_usage_MHz": 200,
+      "ram_usage_percentage": 11.5,
+      "ram_usage_MB": 500,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 9.8,
+      "storage_adapter_latency_ms": 11.8,
+      "cpu_ready_ms": 550
+    },
+    {
+      "timestamp": "16:56",
+      "cpu_usage_percentage": 4.0,
+      "cpu_usage_MHz": 210,
+      "ram_usage_percentage": 11.7,
+      "ram_usage_MB": 520,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 9.5,
+      "storage_adapter_latency_ms": 11.5,
+      "cpu_ready_ms": 540
+    },
+    {
+      "timestamp": "16:57",
+      "cpu_usage_percentage": 4.1,
+      "cpu_usage_MHz": 220,
+      "ram_usage_percentage": 12.0,
+      "ram_usage_MB": 540,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 9.3,
+      "storage_adapter_latency_ms": 11.3,
+      "cpu_ready_ms": 530
+    },
+    {
+      "timestamp": "16:58",
+      "cpu_usage_percentage": 4.2,
+      "cpu_usage_MHz": 230,
+      "ram_usage_percentage": 12.2,
+      "ram_usage_MB": 560,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 9.0,
+      "storage_adapter_latency_ms": 11.0,
+      "cpu_ready_ms": 520
+    },
+    {
+      "timestamp": "16:59",
+      "cpu_usage_percentage": 4.3,
+      "cpu_usage_MHz": 240,
+      "ram_usage_percentage": 12.5,
+      "ram_usage_MB": 580,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 8.8,
+      "storage_adapter_latency_ms": 10.8,
+      "cpu_ready_ms": 510
+    },
+    {
+      "timestamp": "17:00",
+      "cpu_usage_percentage": 4.4,
+      "cpu_usage_MHz": 250,
+      "ram_usage_percentage": 12.7,
+      "ram_usage_MB": 600,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 8.6,
+      "storage_adapter_latency_ms": 10.6,
+      "cpu_ready_ms": 500
+    },
+    {
+      "timestamp": "17:01",
+      "cpu_usage_percentage": 4.5,
+      "cpu_usage_MHz": 260,
+      "ram_usage_percentage": 13.0,
+      "ram_usage_MB": 620,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 8.4,
+      "storage_adapter_latency_ms": 10.5,
+      "cpu_ready_ms": 490
+    },
+    {
+      "timestamp": "17:02",
+      "cpu_usage_percentage": 4.6,
+      "cpu_usage_MHz": 270,
+      "ram_usage_percentage": 13.2,
+      "ram_usage_MB": 640,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 8.2,
+      "storage_adapter_latency_ms": 10.3,
+      "cpu_ready_ms": 480
+    },
+    {
+      "timestamp": "17:03",
+      "cpu_usage_percentage": 4.7,
+      "cpu_usage_MHz": 280,
+      "ram_usage_percentage": 13.5,
+      "ram_usage_MB": 660,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 8.0,
+      "storage_adapter_latency_ms": 10.2,
+      "cpu_ready_ms": 470
+    },
+    {
+      "timestamp": "17:04",
+      "cpu_usage_percentage": 4.8,
+      "cpu_usage_MHz": 290,
+      "ram_usage_percentage": 13.8,
+      "ram_usage_MB": 680,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 7.8,
+      "storage_adapter_latency_ms": 10.0,
+      "cpu_ready_ms": 460
+    },
+    {
+      "timestamp": "17:05",
+      "cpu_usage_percentage": 4.9,
+      "cpu_usage_MHz": 300,
+      "ram_usage_percentage": 14.0,
+      "ram_usage_MB": 700,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 7.5,
+      "storage_adapter_latency_ms": 9.8,
+      "cpu_ready_ms": 450
+    },
+    {
+      "timestamp": "17:06",
+      "cpu_usage_percentage": 5.0,
+      "cpu_usage_MHz": 310,
+      "ram_usage_percentage": 14.2,
+      "ram_usage_MB": 720,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 7.3,
+      "storage_adapter_latency_ms": 9.6,
+      "cpu_ready_ms": 440
+    },
+    {
+      "timestamp": "17:07",
+      "cpu_usage_percentage": 5.1,
+      "cpu_usage_MHz": 320,
+      "ram_usage_percentage": 14.5,
+      "ram_usage_MB": 740,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 7.0,
+      "storage_adapter_latency_ms": 9.5,
+      "cpu_ready_ms": 430
+    },
+    {
+      "timestamp": "17:08",
+      "cpu_usage_percentage": 5.2,
+      "cpu_usage_MHz": 330,
+      "ram_usage_percentage": 14.8,
+      "ram_usage_MB": 760,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.8,
+      "storage_adapter_latency_ms": 9.3,
+      "cpu_ready_ms": 420
+    },
+    {
+      "timestamp": "17:09",
+      "cpu_usage_percentage": 5.3,
+      "cpu_usage_MHz": 340,
+      "ram_usage_percentage": 15.0,
+      "ram_usage_MB": 780,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.6,
+      "storage_adapter_latency_ms": 9.1,
+      "cpu_ready_ms": 410
+    },
+    {
+      "timestamp": "17:10",
+      "cpu_usage_percentage": 5.4,
+      "cpu_usage_MHz": 350,
+      "ram_usage_percentage": 15.2,
+      "ram_usage_MB": 800,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.4,
+      "storage_adapter_latency_ms": 9.0,
+      "cpu_ready_ms": 400
+    },
+    {
+      "timestamp": "17:11",
+      "cpu_usage_percentage": 5.5,
+      "cpu_usage_MHz": 360,
+      "ram_usage_percentage": 15.5,
+      "ram_usage_MB": 820,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.2,
+      "storage_adapter_latency_ms": 8.8,
+      "cpu_ready_ms": 390
+    },
+    {
+      "timestamp": "17:12",
+      "cpu_usage_percentage": 5.6,
+      "cpu_usage_MHz": 370,
+      "ram_usage_percentage": 15.7,
+      "ram_usage_MB": 840,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 6.0,
+      "storage_adapter_latency_ms": 8.7,
+      "cpu_ready_ms": 380
+    },
+    {
+      "timestamp": "17:13",
+      "cpu_usage_percentage": 5.7,
+      "cpu_usage_MHz": 380,
+      "ram_usage_percentage": 16.0,
+      "ram_usage_MB": 860,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.8,
+      "storage_adapter_latency_ms": 8.5,
+      "cpu_ready_ms": 370
+    },
+    {
+      "timestamp": "17:14",
+      "cpu_usage_percentage": 5.8,
+      "cpu_usage_MHz": 390,
+      "ram_usage_percentage": 16.3,
+      "ram_usage_MB": 880,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.5,
+      "storage_adapter_latency_ms": 8.3,
+      "cpu_ready_ms": 360
+    },
+    {
+      "timestamp": "17:15",
+      "cpu_usage_percentage": 5.9,
+      "cpu_usage_MHz": 400,
+      "ram_usage_percentage": 16.5,
+      "ram_usage_MB": 900,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.3,
+      "storage_adapter_latency_ms": 8.1,
+      "cpu_ready_ms": 350
+    },
+    {
+      "timestamp": "17:16",
+      "cpu_usage_percentage": 6.0,
+      "cpu_usage_MHz": 410,
+      "ram_usage_percentage": 16.7,
+      "ram_usage_MB": 920,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 5.1,
+      "storage_adapter_latency_ms": 7.9,
+      "cpu_ready_ms": 340
+    },
+    {
+      "timestamp": "17:17",
+      "cpu_usage_percentage": 6.1,
+      "cpu_usage_MHz": 420,
+      "ram_usage_percentage": 16.9,
+      "ram_usage_MB": 940,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.9,
+      "storage_adapter_latency_ms": 7.8,
+      "cpu_ready_ms": 330
+    },
+    {
+      "timestamp": "17:18",
+      "cpu_usage_percentage": 6.2,
+      "cpu_usage_MHz": 430,
+      "ram_usage_percentage": 17.0,
+      "ram_usage_MB": 960,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.7,
+      "storage_adapter_latency_ms": 7.6,
+      "cpu_ready_ms": 320
+    },
+    {
+      "timestamp": "17:19",
+      "cpu_usage_percentage": 6.3,
+      "cpu_usage_MHz": 440,
+      "ram_usage_percentage": 17.3,
+      "ram_usage_MB": 980,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.5,
+      "storage_adapter_latency_ms": 7.5,
+      "cpu_ready_ms": 310
+    },
+    {
+      "timestamp": "17:20",
+      "cpu_usage_percentage": 6.4,
+      "cpu_usage_MHz": 450,
+      "ram_usage_percentage": 17.5,
+      "ram_usage_MB": 1000,
+      "network_usage": {
+        "rx": 15,
+        "tx": 12
+      },
+      "disk_latency_ms": 4.3,
+      "storage_adapter_latency_ms": 7.3,
+      "cpu_ready_ms": 300
+    }
+  ]
+}
+,
+{
+  "vm_id": "vm-789",
+  "vm_name": "AD-LoadBalancer-001",
+  "uptime": "3 days",
+  "metrics": [
+    {
+      "timestamp": "16:50",
+      "cpu_usage_percentage": 10.1,
+      "cpu_usage_MHz": 350,
+      "ram_usage_percentage": 20.0,
+      "ram_usage_MB": 800,
+      "network_usage": {
+        "rx": 30,
+        "tx": 25
+      },
+      "disk_latency_ms": 15.0,
+      "storage_adapter_latency_ms": 20.0,
+      "cpu_ready_ms": 900
+    },
+    {
+      "timestamp": "16:51",
+      "cpu_usage_percentage": 10.3,
+      "cpu_usage_MHz": 360,
+      "ram_usage_percentage": 20.5,
+      "ram_usage_MB": 820,
+      "network_usage": {
+        "rx": 32,
+        "tx": 27
+      },
+      "disk_latency_ms": 14.8,
+      "storage_adapter_latency_ms": 19.5,
+      "cpu_ready_ms": 890
+    },
+    {
+      "timestamp": "16:52",
+      "cpu_usage_percentage": 10.5,
+      "cpu_usage_MHz": 370,
+      "ram_usage_percentage": 21.0,
+      "ram_usage_MB": 840,
+      "network_usage": {
+        "rx": 34,
+        "tx": 28
+      },
+      "disk_latency_ms": 14.5,
+      "storage_adapter_latency_ms": 19.0,
+      "cpu_ready_ms": 880
+    },
+    {
+      "timestamp": "16:53",
+      "cpu_usage_percentage": 10.7,
+      "cpu_usage_MHz": 380,
+      "ram_usage_percentage": 21.5,
+      "ram_usage_MB": 860,
+      "network_usage": {
+        "rx": 35,
+        "tx": 29
+      },
+      "disk_latency_ms": 14.2,
+      "storage_adapter_latency_ms": 18.8,
+      "cpu_ready_ms": 870
+    },
+    {
+      "timestamp": "16:54",
+      "cpu_usage_percentage": 10.9,
+      "cpu_usage_MHz": 390,
+      "ram_usage_percentage": 22.0,
+      "ram_usage_MB": 880,
+      "network_usage": {
+        "rx": 36,
+        "tx": 30
+      },
+      "disk_latency_ms": 14.0,
+      "storage_adapter_latency_ms": 18.5,
+      "cpu_ready_ms": 860
+    },
+    {
+      "timestamp": "16:55",
+      "cpu_usage_percentage": 11.1,
+      "cpu_usage_MHz": 400,
+      "ram_usage_percentage": 22.5,
+      "ram_usage_MB": 900,
+      "network_usage": {
+        "rx": 37,
+        "tx": 31
+      },
+      "disk_latency_ms": 13.8,
+      "storage_adapter_latency_ms": 18.3,
+      "cpu_ready_ms": 850
+    },
+    {
+      "timestamp": "16:56",
+      "cpu_usage_percentage": 11.3,
+      "cpu_usage_MHz": 410,
+      "ram_usage_percentage": 22.8,
+      "ram_usage_MB": 920,
+      "network_usage": {
+        "rx": 38,
+        "tx": 32
+      },
+      "disk_latency_ms": 13.6,
+      "storage_adapter_latency_ms": 18.0,
+      "cpu_ready_ms": 840
+    },
+    {
+      "timestamp": "16:57",
+      "cpu_usage_percentage": 11.5,
+      "cpu_usage_MHz": 420,
+      "ram_usage_percentage": 23.0,
+      "ram_usage_MB": 940,
+      "network_usage": {
+        "rx": 39,
+        "tx": 33
+      },
+      "disk_latency_ms": 13.4,
+      "storage_adapter_latency_ms": 17.8,
+      "cpu_ready_ms": 830
+    },
+    {
+      "timestamp": "16:58",
+      "cpu_usage_percentage": 11.7,
+      "cpu_usage_MHz": 430,
+      "ram_usage_percentage": 23.5,
+      "ram_usage_MB": 960,
+      "network_usage": {
+        "rx": 40,
+        "tx": 34
+      },
+      "disk_latency_ms": 13.2,
+      "storage_adapter_latency_ms": 17.5,
+      "cpu_ready_ms": 820
+    },
+    {
+      "timestamp": "16:59",
+      "cpu_usage_percentage": 11.9,
+      "cpu_usage_MHz": 440,
+      "ram_usage_percentage": 24.0,
+      "ram_usage_MB": 980,
+      "network_usage": {
+        "rx": 41,
+        "tx": 35
+      },
+      "disk_latency_ms": 13.0,
+      "storage_adapter_latency_ms": 17.3,
+      "cpu_ready_ms": 810
+    },
+    {
+      "timestamp": "17:00",
+      "cpu_usage_percentage": 12.0,
+      "cpu_usage_MHz": 450,
+      "ram_usage_percentage": 24.2,
+      "ram_usage_MB": 1000,
+      "network_usage": {
+        "rx": 42,
+        "tx": 36
+      },
+      "disk_latency_ms": 12.8,
+      "storage_adapter_latency_ms": 17.0,
+      "cpu_ready_ms": 800
+    },
+    {
+      "timestamp": "17:01",
+      "cpu_usage_percentage": 12.1,
+      "cpu_usage_MHz": 460,
+      "ram_usage_percentage": 24.5,
+      "ram_usage_MB": 1020,
+      "network_usage": {
+        "rx": 43,
+        "tx": 37
+      },
+      "disk_latency_ms": 12.6,
+      "storage_adapter_latency_ms": 16.8,
+      "cpu_ready_ms": 790
+    },
+    {
+      "timestamp": "17:02",
+      "cpu_usage_percentage": 12.3,
+      "cpu_usage_MHz": 470,
+      "ram_usage_percentage": 24.8,
+      "ram_usage_MB": 1040,
+      "network_usage": {
+        "rx": 44,
+        "tx": 38
+      },
+      "disk_latency_ms": 12.5,
+      "storage_adapter_latency_ms": 16.5,
+      "cpu_ready_ms": 780
+    },
+    {
+      "timestamp": "17:03",
+      "cpu_usage_percentage": 12.5,
+      "cpu_usage_MHz": 480,
+      "ram_usage_percentage": 25.0,
+      "ram_usage_MB": 1060,
+      "network_usage": {
+        "rx": 45,
+        "tx": 39
+      },
+      "disk_latency_ms": 12.3,
+      "storage_adapter_latency_ms": 16.3,
+      "cpu_ready_ms": 770
+    },
+    {
+      "timestamp": "17:04",
+      "cpu_usage_percentage": 12.7,
+      "cpu_usage_MHz": 490,
+      "ram_usage_percentage": 25.2,
+      "ram_usage_MB": 1080,
+      "network_usage": {
+        "rx": 46,
+        "tx": 40
+      },
+      "disk_latency_ms": 12.0,
+      "storage_adapter_latency_ms": 16.0,
+      "cpu_ready_ms": 760
+    },
+    {
+      "timestamp": "17:05",
+      "cpu_usage_percentage": 12.9,
+      "cpu_usage_MHz": 500,
+      "ram_usage_percentage": 25.5,
+      "ram_usage_MB": 1100,
+      "network_usage": {
+        "rx": 47,
+        "tx": 41
+      },
+      "disk_latency_ms": 11.8,
+      "storage_adapter_latency_ms": 15.8,
+      "cpu_ready_ms": 750
+    },
+    {
+      "timestamp": "17:06",
+      "cpu_usage_percentage": 13.0,
+      "cpu_usage_MHz": 510,
+      "ram_usage_percentage": 25.7,
+      "ram_usage_MB": 1120,
+      "network_usage": {
+        "rx": 48,
+        "tx": 42
+      },
+      "disk_latency_ms": 11.6,
+      "storage_adapter_latency_ms": 15.6,
+      "cpu_ready_ms": 740
+    },
+    {
+      "timestamp": "17:07",
+      "cpu_usage_percentage": 13.1,
+      "cpu_usage_MHz": 520,
+      "ram_usage_percentage": 26.0,
+      "ram_usage_MB": 1140,
+      "network_usage": {
+        "rx": 49,
+        "tx": 43
+      },
+      "disk_latency_ms": 11.4,
+      "storage_adapter_latency_ms": 15.4,
+      "cpu_ready_ms": 730
+    },
+    {
+      "timestamp": "17:08",
+      "cpu_usage_percentage": 13.2,
+      "cpu_usage_MHz": 530,
+      "ram_usage_percentage": 26.2,
+      "ram_usage_MB": 1160,
+      "network_usage": {
+        "rx": 50,
+        "tx": 44
+      },
+      "disk_latency_ms": 11.2,
+      "storage_adapter_latency_ms": 15.2,
+      "cpu_ready_ms": 720
+    },
+    {
+      "timestamp": "17:09",
+      "cpu_usage_percentage": 13.3,
+      "cpu_usage_MHz": 540,
+      "ram_usage_percentage": 26.5,
+      "ram_usage_MB": 1180,
+      "network_usage": {
+        "rx": 51,
+        "tx": 45
+      },
+      "disk_latency_ms": 11.0,
+      "storage_adapter_latency_ms": 15.0,
+      "cpu_ready_ms": 710
+    },
+    {
+      "timestamp": "17:10",
+      "cpu_usage_percentage": 13.4,
+      "cpu_usage_MHz": 550,
+      "ram_usage_percentage": 26.7,
+      "ram_usage_MB": 1200,
+      "network_usage": {
+        "rx": 52,
+        "tx": 46
+      },
+      "disk_latency_ms": 10.8,
+      "storage_adapter_latency_ms": 14.8,
+      "cpu_ready_ms": 700
+    },
+    {
+      "timestamp": "17:11",
+      "cpu_usage_percentage": 13.5,
+      "cpu_usage_MHz": 560,
+      "ram_usage_percentage": 27.0,
+      "ram_usage_MB": 1220,
+      "network_usage": {
+        "rx": 53,
+        "tx": 47
+      },
+      "disk_latency_ms": 10.6,
+      "storage_adapter_latency_ms": 14.5,
+      "cpu_ready_ms": 690
+    },
+    {
+      "timestamp": "17:12",
+      "cpu_usage_percentage": 13.6,
+      "cpu_usage_MHz": 570,
+      "ram_usage_percentage": 27.2,
+      "ram_usage_MB": 1240,
+      "network_usage": {
+        "rx": 54,
+        "tx": 48
+      },
+      "disk_latency_ms": 10.5,
+      "storage_adapter_latency_ms": 14.3,
+      "cpu_ready_ms": 680
+    },
+    {
+      "timestamp": "17:13",
+      "cpu_usage_percentage": 13.7,
+      "cpu_usage_MHz": 580,
+      "ram_usage_percentage": 27.5,
+      "ram_usage_MB": 1260,
+      "network_usage": {
+        "rx": 55,
+        "tx": 49
+      },
+      "disk_latency_ms": 10.3,
+      "storage_adapter_latency_ms": 14.1,
+      "cpu_ready_ms": 670
+    },
+    {
+      "timestamp": "17:14",
+      "cpu_usage_percentage": 13.8,
+      "cpu_usage_MHz": 590,
+      "ram_usage_percentage": 27.8,
+      "ram_usage_MB": 1280,
+      "network_usage": {
+        "rx": 56,
+        "tx": 50
+      },
+      "disk_latency_ms": 10.1,
+      "storage_adapter_latency_ms": 13.9,
+      "cpu_ready_ms": 660
+    },
+    {
+      "timestamp": "17:15",
+      "cpu_usage_percentage": 13.9,
+      "cpu_usage_MHz": 600,
+      "ram_usage_percentage": 28.0,
+      "ram_usage_MB": 1300,
+      "network_usage": {
+        "rx": 57,
+        "tx": 51
+      },
+      "disk_latency_ms": 10.0,
+      "storage_adapter_latency_ms": 13.7,
+      "cpu_ready_ms": 650
+    },
+    {
+      "timestamp": "17:16",
+      "cpu_usage_percentage": 14.0,
+      "cpu_usage_MHz": 610,
+      "ram_usage_percentage": 28.2,
+      "ram_usage_MB": 1320,
+      "network_usage": {
+        "rx": 58,
+        "tx": 52
+      },
+      "disk_latency_ms": 9.8,
+      "storage_adapter_latency_ms": 13.5,
+      "cpu_ready_ms": 640
+    },
+    {
+      "timestamp": "17:17",
+      "cpu_usage_percentage": 14.1,
+      "cpu_usage_MHz": 620,
+      "ram_usage_percentage": 28.5,
+      "ram_usage_MB": 1340,
+      "network_usage": {
+        "rx": 59,
+        "tx": 53
+      },
+      "disk_latency_ms": 9.6,
+      "storage_adapter_latency_ms": 13.3,
+      "cpu_ready_ms": 630
+    },
+    {
+      "timestamp": "17:18",
+      "cpu_usage_percentage": 14.2,
+      "cpu_usage_MHz": 630,
+      "ram_usage_percentage": 28.8,
+      "ram_usage_MB": 1360,
+      "network_usage": {
+        "rx": 60,
+        "tx": 54
+      },
+      "disk_latency_ms": 9.5,
+      "storage_adapter_latency_ms": 13.1,
+      "cpu_ready_ms": 620
+    },
+    {
+      "timestamp": "17:19",
+      "cpu_usage_percentage": 14.3,
+      "cpu_usage_MHz": 640,
+      "ram_usage_percentage": 29.0,
+      "ram_usage_MB": 1380,
+      "network_usage": {
+        "rx": 61,
+        "tx": 55
+      },
+      "disk_latency_ms": 9.3,
+      "storage_adapter_latency_ms": 12.9,
+      "cpu_ready_ms": 610
+    },
+    {
+      "timestamp": "17:20",
+      "cpu_usage_percentage": 14.4,
+      "cpu_usage_MHz": 650,
+      "ram_usage_percentage": 29.2,
+      "ram_usage_MB": 1400,
+      "network_usage": {
+        "rx": 62,
+        "tx": 56
+      },
+      "disk_latency_ms": 9.1,
+      "storage_adapter_latency_ms": 12.7,
+      "cpu_ready_ms": 600
+    }
+  ]
+},
+{
+  "vm_id": "vm-789",
+  "vm_name": "AD-Game-001",
+  "uptime": "3 days",
+  "metrics": [
+    {
+      "timestamp": "16:50",
+      "cpu_usage_percentage": 10.1,
+      "cpu_usage_MHz": 350,
+      "ram_usage_percentage": 20.0,
+      "ram_usage_MB": 800,
+      "network_usage": {
+        "rx": 30,
+        "tx": 25
+      },
+      "disk_latency_ms": 15.0,
+      "storage_adapter_latency_ms": 20.0,
+      "cpu_ready_ms": 900
+    },
+    {
+      "timestamp": "16:51",
+      "cpu_usage_percentage": 10.3,
+      "cpu_usage_MHz": 360,
+      "ram_usage_percentage": 20.5,
+      "ram_usage_MB": 820,
+      "network_usage": {
+        "rx": 32,
+        "tx": 27
+      },
+      "disk_latency_ms": 14.8,
+      "storage_adapter_latency_ms": 19.5,
+      "cpu_ready_ms": 890
+    },
+    {
+      "timestamp": "16:52",
+      "cpu_usage_percentage": 10.5,
+      "cpu_usage_MHz": 370,
+      "ram_usage_percentage": 21.0,
+      "ram_usage_MB": 840,
+      "network_usage": {
+        "rx": 34,
+        "tx": 28
+      },
+      "disk_latency_ms": 14.5,
+      "storage_adapter_latency_ms": 19.0,
+      "cpu_ready_ms": 880
+    },
+    {
+      "timestamp": "16:53",
+      "cpu_usage_percentage": 10.7,
+      "cpu_usage_MHz": 380,
+      "ram_usage_percentage": 21.5,
+      "ram_usage_MB": 860,
+      "network_usage": {
+        "rx": 35,
+        "tx": 29
+      },
+      "disk_latency_ms": 14.2,
+      "storage_adapter_latency_ms": 18.8,
+      "cpu_ready_ms": 870
+    },
+    {
+      "timestamp": "16:54",
+      "cpu_usage_percentage": 10.9,
+      "cpu_usage_MHz": 390,
+      "ram_usage_percentage": 22.0,
+      "ram_usage_MB": 880,
+      "network_usage": {
+        "rx": 36,
+        "tx": 30
+      },
+      "disk_latency_ms": 14.0,
+      "storage_adapter_latency_ms": 18.5,
+      "cpu_ready_ms": 860
+    },
+    {
+      "timestamp": "16:55",
+      "cpu_usage_percentage": 11.1,
+      "cpu_usage_MHz": 400,
+      "ram_usage_percentage": 22.5,
+      "ram_usage_MB": 900,
+      "network_usage": {
+        "rx": 37,
+        "tx": 31
+      },
+      "disk_latency_ms": 13.8,
+      "storage_adapter_latency_ms": 18.3,
+      "cpu_ready_ms": 850
+    },
+    {
+      "timestamp": "16:56",
+      "cpu_usage_percentage": 11.3,
+      "cpu_usage_MHz": 410,
+      "ram_usage_percentage": 22.8,
+      "ram_usage_MB": 920,
+      "network_usage": {
+        "rx": 38,
+        "tx": 32
+      },
+      "disk_latency_ms": 13.6,
+      "storage_adapter_latency_ms": 18.0,
+      "cpu_ready_ms": 840
+    },
+    {
+      "timestamp": "16:57",
+      "cpu_usage_percentage": 11.5,
+      "cpu_usage_MHz": 420,
+      "ram_usage_percentage": 23.0,
+      "ram_usage_MB": 940,
+      "network_usage": {
+        "rx": 39,
+        "tx": 33
+      },
+      "disk_latency_ms": 13.4,
+      "storage_adapter_latency_ms": 17.8,
+      "cpu_ready_ms": 830
+    },
+    {
+      "timestamp": "16:58",
+      "cpu_usage_percentage": 11.7,
+      "cpu_usage_MHz": 430,
+      "ram_usage_percentage": 23.5,
+      "ram_usage_MB": 960,
+      "network_usage": {
+        "rx": 40,
+        "tx": 34
+      },
+      "disk_latency_ms": 13.2,
+      "storage_adapter_latency_ms": 17.5,
+      "cpu_ready_ms": 820
+    },
+    {
+      "timestamp": "16:59",
+      "cpu_usage_percentage": 11.9,
+      "cpu_usage_MHz": 440,
+      "ram_usage_percentage": 24.0,
+      "ram_usage_MB": 980,
+      "network_usage": {
+        "rx": 41,
+        "tx": 35
+      },
+      "disk_latency_ms": 13.0,
+      "storage_adapter_latency_ms": 17.3,
+      "cpu_ready_ms": 810
+    },
+    {
+      "timestamp": "17:00",
+      "cpu_usage_percentage": 12.0,
+      "cpu_usage_MHz": 450,
+      "ram_usage_percentage": 24.2,
+      "ram_usage_MB": 1000,
+      "network_usage": {
+        "rx": 42,
+        "tx": 36
+      },
+      "disk_latency_ms": 12.8,
+      "storage_adapter_latency_ms": 17.0,
+      "cpu_ready_ms": 800
+    },
+    {
+      "timestamp": "17:01",
+      "cpu_usage_percentage": 12.1,
+      "cpu_usage_MHz": 460,
+      "ram_usage_percentage": 24.5,
+      "ram_usage_MB": 1020,
+      "network_usage": {
+        "rx": 43,
+        "tx": 37
+      },
+      "disk_latency_ms": 12.6,
+      "storage_adapter_latency_ms": 16.8,
+      "cpu_ready_ms": 790
+    },
+    {
+      "timestamp": "17:02",
+      "cpu_usage_percentage": 12.3,
+      "cpu_usage_MHz": 470,
+      "ram_usage_percentage": 24.8,
+      "ram_usage_MB": 1040,
+      "network_usage": {
+        "rx": 44,
+        "tx": 38
+      },
+      "disk_latency_ms": 12.5,
+      "storage_adapter_latency_ms": 16.5,
+      "cpu_ready_ms": 780
+    },
+    {
+      "timestamp": "17:03",
+      "cpu_usage_percentage": 12.5,
+      "cpu_usage_MHz": 480,
+      "ram_usage_percentage": 25.0,
+      "ram_usage_MB": 1060,
+      "network_usage": {
+        "rx": 45,
+        "tx": 39
+      },
+      "disk_latency_ms": 12.3,
+      "storage_adapter_latency_ms": 16.3,
+      "cpu_ready_ms": 770
+    },
+    {
+      "timestamp": "17:04",
+      "cpu_usage_percentage": 12.7,
+      "cpu_usage_MHz": 490,
+      "ram_usage_percentage": 25.2,
+      "ram_usage_MB": 1080,
+      "network_usage": {
+        "rx": 46,
+        "tx": 40
+      },
+      "disk_latency_ms": 12.0,
+      "storage_adapter_latency_ms": 16.0,
+      "cpu_ready_ms": 760
+    },
+    {
+      "timestamp": "17:05",
+      "cpu_usage_percentage": 12.9,
+      "cpu_usage_MHz": 500,
+      "ram_usage_percentage": 25.5,
+      "ram_usage_MB": 1100,
+      "network_usage": {
+        "rx": 47,
+        "tx": 41
+      },
+      "disk_latency_ms": 11.8,
+      "storage_adapter_latency_ms": 15.8,
+      "cpu_ready_ms": 750
+    },
+    {
+      "timestamp": "17:06",
+      "cpu_usage_percentage": 13.0,
+      "cpu_usage_MHz": 510,
+      "ram_usage_percentage": 25.7,
+      "ram_usage_MB": 1120,
+      "network_usage": {
+        "rx": 48,
+        "tx": 42
+      },
+      "disk_latency_ms": 11.6,
+      "storage_adapter_latency_ms": 15.6,
+      "cpu_ready_ms": 740
+    },
+    {
+      "timestamp": "17:07",
+      "cpu_usage_percentage": 13.1,
+      "cpu_usage_MHz": 520,
+      "ram_usage_percentage": 26.0,
+      "ram_usage_MB": 1140,
+      "network_usage": {
+        "rx": 49,
+        "tx": 43
+      },
+      "disk_latency_ms": 11.4,
+      "storage_adapter_latency_ms": 15.4,
+      "cpu_ready_ms": 730
+    },
+    {
+      "timestamp": "17:08",
+      "cpu_usage_percentage": 13.2,
+      "cpu_usage_MHz": 530,
+      "ram_usage_percentage": 26.2,
+      "ram_usage_MB": 1160,
+      "network_usage": {
+        "rx": 50,
+        "tx": 44
+      },
+      "disk_latency_ms": 11.2,
+      "storage_adapter_latency_ms": 15.2,
+      "cpu_ready_ms": 720
+    },
+    {
+      "timestamp": "17:09",
+      "cpu_usage_percentage": 13.3,
+      "cpu_usage_MHz": 540,
+      "ram_usage_percentage": 26.5,
+      "ram_usage_MB": 1180,
+      "network_usage": {
+        "rx": 51,
+        "tx": 45
+      },
+      "disk_latency_ms": 11.0,
+      "storage_adapter_latency_ms": 15.0,
+      "cpu_ready_ms": 710
+    },
+    {
+      "timestamp": "17:10",
+      "cpu_usage_percentage": 13.4,
+      "cpu_usage_MHz": 550,
+      "ram_usage_percentage": 26.7,
+      "ram_usage_MB": 1200,
+      "network_usage": {
+        "rx": 52,
+        "tx": 46
+      },
+      "disk_latency_ms": 10.8,
+      "storage_adapter_latency_ms": 14.8,
+      "cpu_ready_ms": 700
+    },
+    {
+      "timestamp": "17:11",
+      "cpu_usage_percentage": 13.5,
+      "cpu_usage_MHz": 560,
+      "ram_usage_percentage": 27.0,
+      "ram_usage_MB": 1220,
+      "network_usage": {
+        "rx": 53,
+        "tx": 47
+      },
+      "disk_latency_ms": 10.6,
+      "storage_adapter_latency_ms": 14.5,
+      "cpu_ready_ms": 690
+    },
+    {
+      "timestamp": "17:12",
+      "cpu_usage_percentage": 13.6,
+      "cpu_usage_MHz": 570,
+      "ram_usage_percentage": 27.2,
+      "ram_usage_MB": 1240,
+      "network_usage": {
+        "rx": 54,
+        "tx": 48
+      },
+      "disk_latency_ms": 10.5,
+      "storage_adapter_latency_ms": 14.3,
+      "cpu_ready_ms": 680
+    },
+    {
+      "timestamp": "17:13",
+      "cpu_usage_percentage": 13.7,
+      "cpu_usage_MHz": 580,
+      "ram_usage_percentage": 27.5,
+      "ram_usage_MB": 1260,
+      "network_usage": {
+        "rx": 55,
+        "tx": 49
+      },
+      "disk_latency_ms": 10.3,
+      "storage_adapter_latency_ms": 14.1,
+      "cpu_ready_ms": 670
+    },
+    {
+      "timestamp": "17:14",
+      "cpu_usage_percentage": 13.8,
+      "cpu_usage_MHz": 590,
+      "ram_usage_percentage": 27.8,
+      "ram_usage_MB": 1280,
+      "network_usage": {
+        "rx": 56,
+        "tx": 50
+      },
+      "disk_latency_ms": 10.1,
+      "storage_adapter_latency_ms": 13.9,
+      "cpu_ready_ms": 660
+    },
+    {
+      "timestamp": "17:15",
+      "cpu_usage_percentage": 13.9,
+      "cpu_usage_MHz": 600,
+      "ram_usage_percentage": 28.0,
+      "ram_usage_MB": 1300,
+      "network_usage": {
+        "rx": 57,
+        "tx": 51
+      },
+      "disk_latency_ms": 10.0,
+      "storage_adapter_latency_ms": 13.7,
+      "cpu_ready_ms": 650
+    },
+    {
+      "timestamp": "17:16",
+      "cpu_usage_percentage": 14.0,
+      "cpu_usage_MHz": 610,
+      "ram_usage_percentage": 28.2,
+      "ram_usage_MB": 1320,
+      "network_usage": {
+        "rx": 58,
+        "tx": 52
+      },
+      "disk_latency_ms": 9.8,
+      "storage_adapter_latency_ms": 13.5,
+      "cpu_ready_ms": 640
+    },
+    {
+      "timestamp": "17:17",
+      "cpu_usage_percentage": 14.1,
+      "cpu_usage_MHz": 620,
+      "ram_usage_percentage": 28.5,
+      "ram_usage_MB": 1340,
+      "network_usage": {
+        "rx": 59,
+        "tx": 53
+      },
+      "disk_latency_ms": 9.6,
+      "storage_adapter_latency_ms": 13.3,
+      "cpu_ready_ms": 630
+    },
+    {
+      "timestamp": "17:18",
+      "cpu_usage_percentage": 14.2,
+      "cpu_usage_MHz": 630,
+      "ram_usage_percentage": 28.8,
+      "ram_usage_MB": 1360,
+      "network_usage": {
+        "rx": 60,
+        "tx": 54
+      },
+      "disk_latency_ms": 9.5,
+      "storage_adapter_latency_ms": 13.1,
+      "cpu_ready_ms": 620
+    },
+    {
+      "timestamp": "17:19",
+      "cpu_usage_percentage": 14.3,
+      "cpu_usage_MHz": 640,
+      "ram_usage_percentage": 29.0,
+      "ram_usage_MB": 1380,
+      "network_usage": {
+        "rx": 61,
+        "tx": 55
+      },
+      "disk_latency_ms": 9.3,
+      "storage_adapter_latency_ms": 12.9,
+      "cpu_ready_ms": 610
+    },
+    {
+      "timestamp": "17:20",
+      "cpu_usage_percentage": 14.4,
+      "cpu_usage_MHz": 650,
+      "ram_usage_percentage": 29.2,
+      "ram_usage_MB": 1400,
+      "network_usage": {
+        "rx": 62,
+        "tx": 56
+      },
+      "disk_latency_ms": 9.1,
+      "storage_adapter_latency_ms": 12.7,
+      "cpu_ready_ms": 600
+    }
+  ]
+}
+
+
+
+]
